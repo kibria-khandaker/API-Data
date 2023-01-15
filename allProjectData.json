@@ -112,5 +112,37 @@
       "https://i.ibb.co/7vys6dz/agroorebro-m3.jpg",
       "https://i.ibb.co/rpcSJD7/agroorebro-m2.jpg"
     ]
+  },
+  {
+    "_id": 8,
+    "name": "A Sports Man",
+    "category": "WordPress",
+    "pType": "WordPress Project",
+    "pUrl": "https://asportsman.com/",
+    "technology": "",
+    "shortText": "This is the any sports and sportsman information website.The mission of a sportsman is to be honest, loyal, respectful, and have integrity.",
+    "img1": "https://i.ibb.co/pzGm5fm/A-Spors-man-main.jpg",
+    "img2": "https://i.ibb.co/pzGm5fm/A-Spors-man-main.jpg",
+    "allImg": [
+      "https://i.ibb.co/LxPGSQM/A-Spors-man-4.jpg",
+      "https://i.ibb.co/d22MJGT/A-Spors-man-2.jpg",
+      "https://i.ibb.co/p4nN07M/A-Spors-man-3.jpg"
+    ]
+  },
+  {
+    "_id": 9,
+    "name": "Saad Raihan",
+    "category": "WordPress",
+    "pType": "WordPress Project",
+    "pUrl": "https://saadraihan.com/",
+    "technology": "",
+    "shortText": "A personal digital marketer portfolio website., He is blogger and SEO expert.",
+    "img1": "https://i.ibb.co/TTkjm4R/saadraihan-MAIN.jpg",
+    "img2": "https://i.ibb.co/TTkjm4R/saadraihan-MAIN.jpg",
+    "allImg": [
+      "https://i.ibb.co/VpZFKGK/saadraihan-4.jpg",
+      "https://i.ibb.co/RQzhmvd/saadraihan-3.jpg",
+      "https://i.ibb.co/S33wYS7/saadraihan-2.jpg"
+    ]
   }
 ]
