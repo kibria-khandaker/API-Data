@@ -87,7 +87,7 @@
     "name": "BD Shifting Service",
     "category": "WordPress",
     "pType": "WordPress Project",
-    "pUrl": "https://stately-khapse-be55d2.netlify.app/",
+    "pUrl": "https://bdshiftingservice.com/",
     "technology": "",
     "shortText": "BD Shifting Service is the Best Home And office Shifting Provider in Bangladesh Planning to shift your house to a new location? Looking for hassle-free house shifting services in Bangladesh near you for safe relocation? Don’t worry. BD Shifting Service has the best movers for household furniture, appliances, and goods shifting at a competitive price in Bangladesh",
     "img1": "https://i.ibb.co/kyXHr5P/bd-shifting-service-main.jpg",
@@ -96,6 +96,21 @@
       "https://i.ibb.co/vXF86QD/bd-shifting-service-contact.jpg",
       "https://i.ibb.co/nCWFP7N/bd-shifting-service-about.jpg"
     ]
+  },
+  {
+    "_id": 7,
+    "name": "Agro Örebro",
+    "category": "WordPress",
+    "pType": "WordPress Project",
+    "pUrl": "https://www.agroorebro.se/",
+    "technology": "",
+    "shortText": "it is a Swedish client local business and blog event site, that provide agro-related product and service and event.",
+    "img1": "https://i.ibb.co/m97KVtV/agroorebro-main.jpg",
+    "img2": "https://i.ibb.co/m97KVtV/agroorebro-main.jpg",
+    "allImg": [
+      "https://i.ibb.co/2dnSzgP/agroorebro-m1.jpg",
+      "https://i.ibb.co/7vys6dz/agroorebro-m3.jpg",
+      "https://i.ibb.co/rpcSJD7/agroorebro-m2.jpg"
+    ]
   }
-
 ]
