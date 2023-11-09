@@ -21,16 +21,16 @@
     "name": "Next.JS-MongoDB",
     "category": "NextjS",
     "pType": "Full Stack Project",
-    "pUrl": "#",
+    "pUrl": "https://simple-book-catalog-react-redux-ts-frontend.vercel.app/",
     "technology": "Next.JS, MongoDB",
     "shortText": "it is a full stack project, using frontend Next js and backend MongoDB ",
     "img1": "https://uc2da0ddfb1667bbbb67de329996.previews.dropboxusercontent.com/p/thumb/ACE6CwNmiMhi8xjVLFoLL0fLyOisjLSLumYPsJt0GMFD5SKuto2bc2HxPRu1O9ebwmH7b8GoyNrVquq53oE1xpvQ_VndkSH9SDZcvJ1GwVl8OfilPCO1sV-a9SCafyfYea6LxeH1LnBszbxsB9XXZQj5MHKdfeC-zy0h_lt-JDxAg2vqwyW4w5LznvFcJoq4-oOfdSkuUU9Fng80kPyodkEx2eBa9EJx1Ki5UQ_cmuAFxEC_HNnEBhuvuqh6idl9J01obOklVHO1lR9KbUT66KtmVrjPDzpG4HdvGo-8cDUpNRJsouRm-rN_c8R1QCmy-8kHYJd1Prmt28Bkh9XFtqr3EguCopJrmo9xeCQ-sLnoeyjfSduX7rlKqEsZnxPXMmG6rTN9HEz9KFTHhYec7I7W/p.png",
     "img2": "https://uc2da0ddfb1667bbbb67de329996.previews.dropboxusercontent.com/p/thumb/ACE6CwNmiMhi8xjVLFoLL0fLyOisjLSLumYPsJt0GMFD5SKuto2bc2HxPRu1O9ebwmH7b8GoyNrVquq53oE1xpvQ_VndkSH9SDZcvJ1GwVl8OfilPCO1sV-a9SCafyfYea6LxeH1LnBszbxsB9XXZQj5MHKdfeC-zy0h_lt-JDxAg2vqwyW4w5LznvFcJoq4-oOfdSkuUU9Fng80kPyodkEx2eBa9EJx1Ki5UQ_cmuAFxEC_HNnEBhuvuqh6idl9J01obOklVHO1lR9KbUT66KtmVrjPDzpG4HdvGo-8cDUpNRJsouRm-rN_c8R1QCmy-8kHYJd1Prmt28Bkh9XFtqr3EguCopJrmo9xeCQ-sLnoeyjfSduX7rlKqEsZnxPXMmG6rTN9HEz9KFTHhYec7I7W/p.png",
     "allImg": [
-      "https://uc2da0ddfb1667bbbb67de329996.previews.dropboxusercontent.com/p/thumb/ACE6CwNmiMhi8xjVLFoLL0fLyOisjLSLumYPsJt0GMFD5SKuto2bc2HxPRu1O9ebwmH7b8GoyNrVquq53oE1xpvQ_VndkSH9SDZcvJ1GwVl8OfilPCO1sV-a9SCafyfYea6LxeH1LnBszbxsB9XXZQj5MHKdfeC-zy0h_lt-JDxAg2vqwyW4w5LznvFcJoq4-oOfdSkuUU9Fng80kPyodkEx2eBa9EJx1Ki5UQ_cmuAFxEC_HNnEBhuvuqh6idl9J01obOklVHO1lR9KbUT66KtmVrjPDzpG4HdvGo-8cDUpNRJsouRm-rN_c8R1QCmy-8kHYJd1Prmt28Bkh9XFtqr3EguCopJrmo9xeCQ-sLnoeyjfSduX7rlKqEsZnxPXMmG6rTN9HEz9KFTHhYec7I7W/p.png",
-      "https://uc2da0ddfb1667bbbb67de329996.previews.dropboxusercontent.com/p/thumb/ACE6CwNmiMhi8xjVLFoLL0fLyOisjLSLumYPsJt0GMFD5SKuto2bc2HxPRu1O9ebwmH7b8GoyNrVquq53oE1xpvQ_VndkSH9SDZcvJ1GwVl8OfilPCO1sV-a9SCafyfYea6LxeH1LnBszbxsB9XXZQj5MHKdfeC-zy0h_lt-JDxAg2vqwyW4w5LznvFcJoq4-oOfdSkuUU9Fng80kPyodkEx2eBa9EJx1Ki5UQ_cmuAFxEC_HNnEBhuvuqh6idl9J01obOklVHO1lR9KbUT66KtmVrjPDzpG4HdvGo-8cDUpNRJsouRm-rN_c8R1QCmy-8kHYJd1Prmt28Bkh9XFtqr3EguCopJrmo9xeCQ-sLnoeyjfSduX7rlKqEsZnxPXMmG6rTN9HEz9KFTHhYec7I7W/p.png",
-      "https://uc2da0ddfb1667bbbb67de329996.previews.dropboxusercontent.com/p/thumb/ACE6CwNmiMhi8xjVLFoLL0fLyOisjLSLumYPsJt0GMFD5SKuto2bc2HxPRu1O9ebwmH7b8GoyNrVquq53oE1xpvQ_VndkSH9SDZcvJ1GwVl8OfilPCO1sV-a9SCafyfYea6LxeH1LnBszbxsB9XXZQj5MHKdfeC-zy0h_lt-JDxAg2vqwyW4w5LznvFcJoq4-oOfdSkuUU9Fng80kPyodkEx2eBa9EJx1Ki5UQ_cmuAFxEC_HNnEBhuvuqh6idl9J01obOklVHO1lR9KbUT66KtmVrjPDzpG4HdvGo-8cDUpNRJsouRm-rN_c8R1QCmy-8kHYJd1Prmt28Bkh9XFtqr3EguCopJrmo9xeCQ-sLnoeyjfSduX7rlKqEsZnxPXMmG6rTN9HEz9KFTHhYec7I7W/p.png",
-      "https://img.freepik.com/premium-vector/abstract-grunge-style-coming-soon-background_591998-822.jpg"
+      "https://uc13670829b1b9db152439025bb6.previews.dropboxusercontent.com/p/thumb/ACFgj1bSfMSpTgrWYODIm1xR8AgNGGUhxTLTf6sxaJELrIbLN2uDyjxsG0WIRXfHKKZ7jQ9rGdi2GiKr2tNhfV_6rezGH8jTFjHZU1fGsVn56Zf3C3Tsh7i6FgFsyja7lBEPExDG4shWfBBq25eEVLn-yuxssLb7aMhrlULnCiFjFvxQvmGf1ykNVYaCd2UnkMPB_VVjdJCKAJRMmrqv0I36MXtm_k1Pcvl0Sw6LyQ1wOQtfifoEgWJyFCJvsrS_0ymjJsoKlbA9twwbUWwP6No_rQEnH2RCI18gwAGvGR9Z_-7OZaNwrVQP3Kxks9bfUTgWjc0kXGvABjnEd6bFlKqIRXStMtRrklHQSumPwCTu4ay4Yw4awyUBJ-cYNOPYGeE/p.png",
+      "https://uc61eaf742eb8d12e422ec8969b4.previews.dropboxusercontent.com/p/thumb/ACFkywMoeCSQ8ryLMA62kyloAT6y6_p0Em1K5cxlJIQhqodzy8BLwOvWbTysid-E2aSB0vzhzg3Tp8sArmd7_cy5wIvsAHC-fdCXdvhhEwlKXnHp4QSBQRdtPGX40nnm_aOYo42F09ZCEtVkiXMJ5_zoBqqywzFDCySnp6QLFUaz85jSWbWL3V2fmVRpeplnUglErJK35ArVbEKdk7ChiV9X2CYvHDqWPyP3Aehf-xnTRYu_jBj5CMviFhh635cPkmx41GBSMJJ2uyqKWRzOo2TyJA7TsDgI54km7GgYoOGEO38cKnfGCuJMMh8U6o3re9X3EZ0ojbVzcH4g6xTZdE3H2wjBgyRUad9GZf0geNl4j2KXbGi-VHHqI_0Cdrex_cg/p.png",
+      "bbbbbbbb",
+      "hhhhhhhhhh"
     ]
   },
   {
