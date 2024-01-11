@@ -136,21 +136,6 @@
   },
   {
     "_id": 5,
-    "name": "BD Shifting Service",
-    "category": "WordPress",
-    "pType": "WordPress Project",
-    "pUrl": "https://bdshiftingservice.com/",
-    "technology": "WordPress, PHP, Elementor",
-    "shortText": "BD Shifting Service is the Best Home And office Shifting Provider in Bangladesh Planning to shift your house to a new location? Looking for hassle-free house shifting services in Bangladesh near you for safe relocation? Don’t worry. BD Shifting Service has the best movers for household furniture, appliances, and goods shifting at a competitive price in Bangladesh",
-    "img1": "https://i.ibb.co/kyXHr5P/bd-shifting-service-main.jpg",
-    "img2": "https://i.ibb.co/kyXHr5P/bd-shifting-service-main.jpg",
-    "allImg": [
-      "https://i.ibb.co/vXF86QD/bd-shifting-service-contact.jpg",
-      "https://i.ibb.co/nCWFP7N/bd-shifting-service-about.jpg"
-    ]
-  },
-  {
-    "_id": 4,
     "name": "Travel Kib",
     "category": "WordPress",
     "pType": "WordPress Project",
@@ -162,6 +147,21 @@
     "allImg": [
       "https://i.postimg.cc/Z5GS2GRg/Mobile-version.png",
       "https://i.postimg.cc/kg6CjJnK/Tab-virtion.png"
+    ]
+  },
+  {
+    "_id": 4,
+    "name": "BD Shifting Service",
+    "category": "WordPress",
+    "pType": "WordPress Project",
+    "pUrl": "https://bdshiftingservice.com/",
+    "technology": "WordPress, PHP, Elementor",
+    "shortText": "BD Shifting Service is the Best Home And office Shifting Provider in Bangladesh Planning to shift your house to a new location? Looking for hassle-free house shifting services in Bangladesh near you for safe relocation? Don’t worry. BD Shifting Service has the best movers for household furniture, appliances, and goods shifting at a competitive price in Bangladesh",
+    "img1": "https://i.ibb.co/kyXHr5P/bd-shifting-service-main.jpg",
+    "img2": "https://i.ibb.co/kyXHr5P/bd-shifting-service-main.jpg",
+    "allImg": [
+      "https://i.ibb.co/vXF86QD/bd-shifting-service-contact.jpg",
+      "https://i.ibb.co/nCWFP7N/bd-shifting-service-about.jpg"
     ]
   },
   {
