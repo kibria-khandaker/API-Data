@@ -1,7 +1,7 @@
 [
   {
     "_id": 3,
-    "appTitle": "My Youtube Video Player",
+    "appTitle": "My Youtube Video Player 1",
     "appCategory": "Video",
     "appType": "Web Application",
     "appUrl": "https://tourbooking-frontend.web.app",
@@ -12,7 +12,7 @@
   },
   {
     "_id": 2,
-    "appTitle": "My Youtube Video Player",
+    "appTitle": "My Youtube Video Player 2",
     "appCategory": "Video",
     "appType": "Web Application",
     "appUrl": "https://tourbooking-frontend.web.app",
@@ -23,7 +23,7 @@
   },
   {
     "_id": 1,
-    "appTitle": "My Youtube Video Player",
+    "appTitle": "My Youtube Video Player 3",
     "appCategory": "Video",
     "appType": "Web Application",
     "appUrl": "https://tourbooking-frontend.web.app",
