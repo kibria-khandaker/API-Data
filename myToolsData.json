@@ -12,7 +12,7 @@
   },
   {
     "_id": 2,
-    "appTitle": "BMI Calculator",
+    "appTitle": "Simple BMI Calculator",
     "appCategory": "Calculator",
     "appType": "Web Application",
     "appUrl": "https://flourishing-swan-2e96c3.netlify.app/",
