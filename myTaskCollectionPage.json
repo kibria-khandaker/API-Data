@@ -4,62 +4,62 @@
     "taskTitle": "Class 1-5 math solve app",
     "taskDescription": "Here will a form and input option will available and after complete everything able to print or save as PDF file,",
     "taskStatus": "not_start",
-    "taskUrl": "#"
+    "taskUrl": "https://netkib.com/"
   },
   {
     "_id": 8,
     "taskTitle": "Invoice or Quotation maker",
     "taskDescription": "This for your age calculation",
-    "taskStatus": "",
-    "taskUrl": "#"
+    "taskStatus": "not_start",
+    "taskUrl": "https://netkib.com/"
   },
   {
     "_id": 7,
     "taskTitle": "Minutes / SMS / internet cost calculation",
     "taskDescription": "আমরা যখন মোবাইল কোম্পানির ইন্টারনেট কিংবা মিনিটের বা এসএমএস এর কোন প্যাকেজ কিনি তখন আমরা বুঝতে পারি না কোনটার দাম কম বা বেশি হবে, এটা সহজে হিসাব করে বের করে এর কাজ",
     "taskStatus": "done",
-    "taskUrl": "#"
+    "taskUrl": "https://netkib.com/"
   },
   {
     "_id": 6,
     "taskTitle": "A Common Calculator",
     "taskDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa porro voluptatibus quo vel nisi aliquam officiis vero recusandae in ipsam!",
     "taskStatus": "not_start",
-    "taskUrl": "#"
+    "taskUrl": "https://netkib.com/"
   },
   {
     "_id": 5,
     "taskTitle": "Website URL Scraping or collection automatically.",
     "taskDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa porro voluptatibus quo vel nisi aliquam officiis vero recusandae in ipsam!",
     "taskStatus": "started",
-    "taskUrl": "#"
+    "taskUrl": "https://netkib.com/"
   },
   {
     "_id": 4,
     "taskTitle": "Income Remaining Calculator",
     "taskDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa porro voluptatibus quo vel nisi aliquam officiis vero recusandae in ipsam!",
     "taskStatus": "done",
-    "taskUrl": "#"
+    "taskUrl": "https://netkib.com/"
   },
   {
     "_id": 3,
     "taskTitle": "Simple BMI Calculator",
     "taskDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa porro voluptatibus quo vel nisi aliquam officiis vero recusandae in ipsam!",
     "taskStatus": "done",
-    "taskUrl": "#"
+    "taskUrl": "https://netkib.com/"
   },
   {
     "_id": 2,
     "taskTitle": "Age Calculator",
     "taskDescription": "if you can calculate your age input your date. or if you want to calculate your age any particular date do it",
     "taskStatus": "done",
-    "taskUrl": "#"
+    "taskUrl": "https://netkib.com/"
   },
   {
     "_id": 1,
     "taskTitle": "My Youtube Video Player",
     "taskDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa porro voluptatibus quo vel nisi aliquam officiis vero recusandae in ipsam!",
     "taskStatus": "done",
-    "taskUrl": "#"
+    "taskUrl": "https://netkib.com/"
   }
 ]
