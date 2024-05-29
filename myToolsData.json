@@ -1,5 +1,18 @@
 [
   {
+    "_id": 7,
+    "appTitle": "Common Calculator",
+    "appCategory": "Calculator",
+    "appType": "Web Application",
+    "appUrl": "https://kibria-khandaker.github.io/commonCalculator/",
+    "appGitFrontUrl": "https://github.com/kibria-khandaker/commonCalculator",
+    "appGitServerUrl": "https://github.com/kibria-khandaker/commonCalculator",
+    "appTechnology": "HTML, CSS, JavaScript",
+    "appShortText": "This for your age calculation",
+    "appIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/ageCalculator.svg",
+    "appImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/ageCalculator.svg"
+  },
+  {
     "_id": 6,
     "appTitle": "Age Calculator",
     "appCategory": "Calculator",
