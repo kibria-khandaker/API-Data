@@ -1,0 +1,58 @@
+[
+  {
+    "_id": 4,
+    "serviceTitle": "Social Media Service price list 4",
+    "serviceCategory": "Social Media",
+    "serviceSubCategory": "Social Media Service",
+    "servicePdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+    "serviceImgUrl": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/listCheckSolid.svg",
+    "serviceContactUrl": "https://wa.me/+8801913595268",
+    "serviceTopics": "Service_1, Service_2, Service_3",
+    "serviceShortText": "THis is Service short text",
+    "serviceDescription": "THis is Service Description text",
+    "serviceIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg",
+    "serviceImgSmallUrl": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/ageCalculator.svg"
+  },
+  {
+    "_id": 3,
+    "serviceTitle": "Social Media Service price list 3",
+    "serviceCategory": "Social Media",
+    "serviceSubCategory": "Social Media Service",
+    "servicePdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+    "serviceImgUrl": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/listCheckSolid.svg",
+    "serviceContactUrl": "https://wa.me/+8801913595268",
+    "serviceTopics": "Service_1, Service_2, Service_3",
+    "serviceShortText": "THis is Service short text",
+    "serviceDescription": "THis is Service Description text",
+    "serviceIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg",
+    "serviceImgSmallUrl": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/ageCalculator.svg"
+  },
+  {
+    "_id": 2,
+    "serviceTitle": "Social Media Service price list 2",
+    "serviceCategory": "Social Media",
+    "serviceSubCategory": "Social Media Service",
+    "servicePdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+    "serviceImgUrl": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/listCheckSolid.svg",
+    "serviceContactUrl": "https://wa.me/+8801913595268",
+    "serviceTopics": "Service_1, Service_2, Service_3",
+    "serviceShortText": "THis is Service short text",
+    "serviceDescription": "THis is Service Description text",
+    "serviceIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg",
+    "serviceImgSmallUrl": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/ageCalculator.svg"
+  },
+  {
+    "_id": 1,
+    "serviceTitle": "Social Media Service price list 1",
+    "serviceCategory": "Social Media",
+    "serviceSubCategory": "Social Media Service",
+    "servicePdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+    "serviceImgUrl": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/listCheckSolid.svg",
+    "serviceContactUrl": "https://wa.me/+8801913595268",
+    "serviceTopics": "Service_1, Service_2, Service_3",
+    "serviceShortText": "THis is Service short text",
+    "serviceDescription": "THis is Service Description text",
+    "serviceIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg",
+    "serviceImgSmallUrl": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/ageCalculator.svg"
+  }
+]
