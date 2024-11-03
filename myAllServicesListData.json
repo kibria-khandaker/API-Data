@@ -1,116 +1,232 @@
 [
-  {
-    "_id": 6,
-    "sTitle": "Social Media Service price list 6",
-    "sCategory": "Social Media",
-    "sTopics": "Service_1, Service_2, Service_3",
-    "sContactUrl": "https://wa.me/+8801913595268",
-    "sShortText": "THis is Service short text",
-    "sDescription": "THis is Service Description text",
-    "sPdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
-    "sImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",
-    "sImgSmall": "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-    "sAllImg": [
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg"
-    ],
-    "sIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg"
-  },
-  {
-    "_id": 5,
-    "sTitle": "Social Media Service price list 5",
-    "sCategory": "Social Media",
-    "sTopics": "Service_1, Service_2, Service_3",
-    "sContactUrl": "https://wa.me/+8801913595268",
-    "sShortText": "THis is Service short text",
-    "sDescription": "THis is Service Description text",
-    "sPdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
-    "sImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",
-    "sImgSmall": "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-    "sAllImg": [
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg"
-    ],
-    "sIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg"
-  },
-  {
-    "_id": 4,
-    "sTitle": "Social Media Service price list 4",
-    "sCategory": "Social Media",
-    "sTopics": "Service_1, Service_2, Service_3",
-    "sContactUrl": "https://wa.me/+8801913595268",
-    "sShortText": "THis is Service short text",
-    "sDescription": "THis is Service Description text",
-    "sPdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
-    "sImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",
-    "sImgSmall": "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-    "sAllImg": [
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg"
-    ],
-    "sIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg"
-  },
-  {
-    "_id": 3,
-    "sTitle": "Social Media Service price list 3",
-    "sCategory": "Social Media",
-    "sTopics": "Service_1, Service_2, Service_3",
-    "sContactUrl": "https://wa.me/+8801913595268",
-    "sShortText": "THis is Service short text",
-    "sDescription": "THis is Service Description text",
-    "sPdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
-    "sImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",
-    "sImgSmall": "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-    "sAllImg": [
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg"
-    ],
-    "sIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg"
-  },
-  {
-    "_id": 2,
-    "sTitle": "Social Media Service price list 2",
-    "sCategory": "Social Media",
-    "sTopics": "Service_1, Service_2, Service_3",
-    "sContactUrl": "https://wa.me/+8801913595268",
-    "sShortText": "THis is Service short text",
-    "sDescription": "THis is Service Description text",
-    "sPdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
-    "sImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",
-    "sImgSmall": "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-    "sAllImg": [
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg"
-    ],
-    "sIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg"
-  },
-  {
-    "_id": 1,
-    "sTitle": "Social Media Service price list 1",
-    "sCategory": "Social Media",
-    "sTopics": "Service_1, Service_2, Service_3",
-    "sContactUrl": "https://wa.me/+8801913595268",
-    "sShortText": "THis is Service short text",
-    "sDescription": "THis is Service Description text",
-    "sPdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
-    "sImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",
-    "sImgSmall": "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-    "sAllImg": [
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg"
-    ],
-    "sIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/calculatorCommon.svg"
-  }
+	{
+		"_id": 11,
+		"s_Title": "WordPress WooCommerce",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "eCommerce Development",
+		"s_Keywords": "WooCommerce development services, WooCommerce store setup, WordPress eCommerce development, WooCommerce customization, WooCommerce plugin installation, online store with WooCommerce",
+		"s_Slogan": "Transform your WordPress site into a thriving online store.",
+		"s_ShortText": "Create a powerful eCommerce site with custom WooCommerce solutions.",
+		"s_Description": "We offer custom WordPress WooCommerce development services, from complete store setups to plugin integrations and theme customizations. Our team ensures that your eCommerce store is optimized for both performance and sales, helping you grow your online business. For more details on our work, check out My Work & Services at NetKib: www.netkib.com or learn more about me at Kibria: www.kibria.net.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-wocm.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-wocm.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 10,
+		"s_Title": "WordPress Plugin Development",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "WordPress Development",
+		"s_Keywords": "custom WordPress plugin development, WordPress plugin developer, custom plugins for WordPress, plugin development services, WordPress plugin coding, build WordPress plugins",
+		"s_Slogan": "Enhance your website's functionality with custom WordPress plugins.",
+		"s_ShortText": "Build powerful plugins to extend your WordPress site's capabilities.",
+		"s_Description": "Our WordPress Plugin Development service provides custom plugins tailored to your specific business needs. With our expertise, we design plugins that integrate seamlessly with your site and offer optimal performance. Get in touch to enhance your site’s capabilities with robust plugin solutions. See our portfolio at NetKib: www.netkib.com or learn more about me at Kibria: www.kibria.net.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-plg-dev.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-plg-dev.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 9,
+		"s_Title": "WordPress Theme Development",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "WordPress Development",
+		"s_Keywords": "custom WordPress theme development, WordPress theme creation, theme developer for WordPress, responsive WordPress themes, WordPress theme design, bespoke WordPress theme",
+		"s_Slogan": "Build a unique brand presence with custom WordPress theme development.",
+		"s_ShortText": "Get a custom WordPress theme designed to make your brand stand out.",
+		"s_Description": "Our WordPress Theme Development service focuses on creating custom, responsive themes tailored to your brand’s unique style and goals. With our expertise, we develop themes that are visually appealing, user-friendly, and optimized for SEO. Check out our previous work on NetKib: www.netkib.com, and learn more about me at Kibria: www.kibria.net.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-thm-dev.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-thm-dev.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 8,
+		"s_Title": "WordPress Theme Customization",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Customization Services",
+		"s_Keywords": "customize WordPress theme, WordPress theme modification, WordPress theme customization service, edit WordPress theme layout, theme customization WordPress experts, personalized WordPress theme changes",
+		"s_Slogan": "Personalize your WordPress theme for a distinctive website experience.",
+		"s_ShortText": "Tailor your WordPress theme to align perfectly with your brand identity.",
+		"s_Description": "We specialize in WordPress Theme Customization, offering modifications to match your exact design and functionality needs. Whether it’s layout changes, color adjustments, or custom widgets, we make your theme unique and aligned with your brand. View our custom work on NetKib: www.netkib.com or visit Kibria: www.kibria.net to learn more.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-thm-cst.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-thm-cst.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 7,
+		"s_Title": "WordPress Plugin Customization",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Customization Services",
+		"s_Keywords": "customize WordPress plugins, WordPress plugin modification, plugin customization for WordPress, WordPress plugin support, WordPress custom plugins, plugin customization experts WordPress",
+		"s_Slogan": "Customize your WordPress plugins for enhanced site performance.",
+		"s_ShortText": "Get the exact functionality you need with custom WordPress plugin tweaks.",
+		"s_Description": "Our WordPress Plugin Customization services allow you to modify existing plugins to meet specific requirements. We work to enhance your site’s features, making it easier to achieve your business goals. Explore our customization projects on NetKib: www.netkib.com or learn more about me at Kibria: www.kibria.net.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-plg-cst.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-plg-cst.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 6,
+		"s_Title": "React.js & Next.js Application Development",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Web Application Development",
+		"s_Keywords": "React.js development services, Next.js application development, React and Next.js experts, front-end React development, Next.js web application, custom React applications",
+		"s_Slogan": "Build dynamic applications with React.js and Next.js expertise.",
+		"s_ShortText": "Develop modern, scalable web apps with our React and Next.js solutions.",
+		"s_Description": "We offer React.js & Next.js Application Development services, focusing on modern, interactive web apps. Our team builds solutions that are both scalable and user-centric, designed to enhance user experience and performance. Explore our previous projects on NetKib: www.netkib.com, or visit Kibria: www.kibria.net to learn more about our approach.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ret-nxt-dev.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ret-nxt-dev.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 5,
+		"s_Title": "Website Error Solve",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Technical Support",
+		"s_Keywords": "fix website errors, website troubleshooting services, repair WordPress errors, resolve site issues, error solutions for websites, website debugging services",
+		"s_Slogan": "Resolve website errors quickly with professional troubleshooting.",
+		"s_ShortText": "Get prompt error resolution to keep your website running smoothly.",
+		"s_Description": "Our Website Error Solve services provide expert troubleshooting and repair for common website issues. Whether it’s a broken link, a plugin conflict, or a server error, we can help you fix it fast. Check out our work in this area on NetKib: www.netkib.com, or get to know more about me at Kibria: www.kibria.net.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/web-err.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/web-err.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 4,
+		"s_Title": "WordPress Speed Optimization",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Performance Optimization",
+		"s_Keywords": "speed up WordPress site, WordPress performance optimization, optimize WordPress loading speed, WordPress speed improvement, reduce WordPress load time, WordPress website speed enhancement",
+		"s_Slogan": "Boost your WordPress site's performance with speed optimization.",
+		"s_ShortText": "Optimize your WordPress site for faster loading and better user experience.",
+		"s_Description": "Our WordPress Speed Optimization service ensures your website loads quickly, providing a seamless experience for your users. By reducing load times, we improve user engagement and SEO rankings. Discover our optimized sites on NetKib: www.netkib.com or learn more about me at Kibria: www.kibria.net.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-spot.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-spot.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 3,
+		"s_Title": "Complete LinkedIn Profile Setup with Services Page",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Social Media Setup",
+		"s_Keywords": "LinkedIn profile setup service, LinkedIn profile optimization, setup LinkedIn services page, create LinkedIn professional profile, LinkedIn business profile setup, optimize LinkedIn for business",
+		"s_Slogan": "Build a professional LinkedIn presence with a complete profile setup.",
+		"s_ShortText": "Optimize your LinkedIn profile with a setup tailored to attract clients.",
+		"s_Description": "Our Complete LinkedIn Profile Setup service enhances your business visibility on LinkedIn by creating a professional profile and services page. This setup attracts clients and makes it easier for them to connect with you. Explore more of our work on NetKib: www.netkib.com or visit Kibria: www.kibria.net.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/lnd-prof-set.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/lnd-prof-set.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 2,
+		"s_Title": "Complete Facebook, Instagram Setup and Management Services",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Social Media Setup & Management",
+		"s_Keywords": "Facebook and Instagram management, social media management services, manage Facebook page and Instagram, social media strategy and content, Facebook and Instagram maintenance, business social media management",
+		"s_Slogan": "Effective Facebook & Instagram management for brand growth.",
+		"s_ShortText": "Manage and grow your social media presence with expert support.",
+		"s_Description": "Our Complete Facebook and Instagram Management service offers everything you need to build and grow a successful social media presence. From posting to profile maintenance, we take care of every detail. Check out our social media projects at NetKib: www.netkib.com or learn more about me at Kibria: www.kibria.net.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+
+	},
+	{
+		"_id": 1,
+		"s_Title": "WordPress Development",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "WordPress Development",
+		"s_Keywords": "professional WordPress development, WordPress website development, custom WordPress services, WordPress developers for hire, WordPress website solutions, build WordPress websites",
+		"s_Slogan": "Create robust websites with custom WordPress development.",
+		"s_ShortText": "Expert WordPress development services for high-quality websites.",
+		"s_Description": "Our WordPress Development service covers custom website creation, theme and plugin integration, and maintenance. We build professional, SEO-friendly sites tailored to your brand. Learn more about our services on NetKib: www.netkib.com or discover my expertise at Kibria: www.kibria.net.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-dev.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-dev.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+	}
 ]
