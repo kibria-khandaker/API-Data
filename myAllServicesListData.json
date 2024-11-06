@@ -1,6 +1,26 @@
 [
 	{
 		"_id": 11,
+		"s_Title": "WordPress Maintenance",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "WordPress",
+		"s_Keywords": "WooCommerce development services, WooCommerce store setup, WordPress eCommerce development, WooCommerce customization, WooCommerce plugin installation, online store with WooCommerce",
+		"s_Slogan": "Keep your site running smoothly with expert WordPress maintenance by NetKib.com or Kibria.net",
+		"s_ShortText": "Ensure flawless WordPress performance with expert maintenance from NetKib.com or kibria.net. We manage security, speed, updates, and backups to keep your site running smoothly.",
+		"s_Description": "Is your WordPress website slowing down, or are you worried about security vulnerabilities? At NetKib, we offer comprehensive WordPress maintenance services to keep your site running at its best. From regular updates and real-time backups to security monitoring and SEO optimization, we provide tailored support to ensure a seamless, reliable website experience. You’ll never have to worry about technical issues holding you back; our proactive approach helps to prevent issues before they impact your visitors. Visit NetKib to learn more about our maintenance services and explore how we can enhance your website’s functionality, security, and speed. || Check out our services at NetKib( www.netkib.com ) for all your WooCommerce needs. || For a complete portfolio, visit Kibria's( www.kibria.net ) personal site.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-maint.png",    
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-wocm.png",    
+		"s_AllImg": [
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+	},	
+	{
+		"_id": 11,
 		"s_Title": "WordPress WooCommerce",
 		"s_ContactUrl": "https://wa.me/+8801913595268",
 		"s_Category": "eCommerce Development",
@@ -9,7 +29,7 @@
 		"s_ShortText": "Drive sales with a custom WooCommerce store. Get tailored features, seamless integration, and user-friendly design to enhance customer experience and boost revenue.",
 		"s_Description": "Boost your online sales and create a seamless shopping experience with custom WooCommerce development from NetKib( www.netkib.com ). Our team designs fully tailored e-commerce solutions with user-friendly interfaces, secure payment gateways, and optimized performance. Whether you need a new store or want to enhance an existing one, we focus on engaging, mobile-responsive designs that captivate users and drive conversions. By incorporating SEO best practices, we ensure your products rank well and reach your target audience effectively. Check out our services at NetKib( www.netkib.com ) for all your WooCommerce needs. || For a complete portfolio, visit Kibria's( www.kibria.net ) personal site.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-wocm.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-wocm.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -29,7 +49,7 @@
 		"s_ShortText": "Expand your WordPress site's capabilities with custom plugins. Built to suit your unique requirements, our plugins ensure enhanced functionality and ease of use.",
 		"s_Description": "Elevate your WordPress website’s functionality with custom plugins that address your unique needs. At NetKib( www.netkib.com ), we build secure, efficient plugins that enhance site capabilities, helping you achieve a more dynamic and interactive online presence. Our plugin solutions are optimized for speed, security, and SEO, allowing for a seamless user experience. From integrating third-party services to creating entirely new features, our plugins are developed to your specifications with the utmost attention to quality and performance. Visit NetKib( www.netkib.com ) to explore our plugin development services. || Discover more about Kibria's( www.kibria.net ) approach to custom WordPress development.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-plg-dev.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-plg-dev.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -49,7 +69,7 @@
 		"s_ShortText": "Create a distinct online presence with a custom WordPress theme. Our themes are optimized for speed, design, and SEO to reflect your brand's unique identity.",
 		"s_Description": "Stand out with a unique WordPress theme designed to embody your brand’s identity. NetKib( www.netkib.com ) specializes in developing responsive, SEO-optimized themes tailored to your aesthetic and functional needs. Our themes are designed to provide fast load times, smooth navigation, and an exceptional user experience across devices. We focus on cohesive branding and design, ensuring your website is memorable and appealing. To elevate your online presence, explore our WordPress theme development services at NetKib( www.netkib.com ). || View Kibria's( www.kibria.net ) portfolio for more details on past theme projects.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-thm-dev.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-thm-dev.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -69,7 +89,7 @@
 		"s_ShortText": "Transform your website with expert theme customization. We fine-tune layouts, colors, and features to match your brand and improve user engagement and experience.",
 		"s_Description": "Transform your existing WordPress theme with expert customization from NetKib( www.netkib.com ). We personalize layouts, colors, fonts, and functionality to align perfectly with your brand, enhancing both usability and aesthetic appeal. With our theme customization services, we address your specific needs, optimizing every element for SEO and user engagement. We ensure a cohesive, unique look that attracts and retains your target audience, boosting your online impact. Explore our customization options at NetKib( www.netkib.com ). || Visit Kibria's( www.kibria.net ) personal site to learn more about our custom solutions.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-thm-cst.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-thm-cst.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -89,7 +109,7 @@
 		"s_ShortText": "Tailor WordPress plugins to your specific needs. We modify and enhance plugins for optimized functionality, security, and seamless site performance.",
 		"s_Description": "Tailor your WordPress plugins for enhanced site performance and functionality with NetKib( www.netkib.com ). Our plugin customization services adapt existing plugins to fit your requirements precisely, ensuring smooth integration and a user-friendly experience. Whether you need added functionality or refined security features, we adjust plugins to match your goals and improve site efficiency. Our customizations are SEO-oriented, prioritizing speed and reliability. Learn more about plugin customization at NetKib( www.netkib.com ). || See Kibria's( www.kibria.net ) work for further insights into our WordPress solutions.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-plg-cst.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-plg-cst.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -109,7 +129,7 @@
 		"s_ShortText": "Develop fast, modern web applications with React.js & Next.js. Get high-performance, SEO-optimized solutions designed for scalability and user engagement.",
 		"s_Description": "Build robust, scalable web applications with React.js and Next.js development services from NetKib( www.netkib.com ). Specializing in high-performance, SEO-optimized applications, we provide custom solutions that ensure a responsive, engaging user experience. From single-page applications to complex web platforms, our team builds fast-loading apps with clean code and scalable structures, prioritizing user experience and security. Visit NetKib( www.netkib.com ) for top-tier React.js and Next.js development. || For examples, check out Kibria's( www.kibria.net ) personal site.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ret-nxt-dev.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ret-nxt-dev.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -129,7 +149,7 @@
 		"s_ShortText": "Fix website issues promptly with expert troubleshooting. We diagnose and resolve errors, improving your site's functionality, speed, and user experience.",
 		"s_Description": "Say goodbye to website issues with NetKib( www.netkib.com )'s expert error resolution services. We diagnose and repair errors that disrupt your website’s functionality, helping restore a smooth, efficient user experience. Our services cover performance, code, security, and plugin errors, with an emphasis on fast, SEO-friendly solutions that keep your site up and running. Get comprehensive error-solving support at NetKib( www.netkib.com ). || Discover Kibria's( www.kibria.net ) portfolio for more information.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/web-err.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/web-err.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -149,7 +169,7 @@
 		"s_ShortText": "Improve your WordPress site speed for a better user experience. Our optimization services reduce load times, boosting SEO rankings and customer retention.",
 		"s_Description": "Optimize your site’s speed for an enhanced user experience and improved SEO with NetKib( www.netkib.com ). We focus on compressing images, refining code, and leveraging caching techniques to reduce load times significantly. Speed optimization helps retain visitors, reduces bounce rates, and boosts your site's ranking. For a faster, more efficient site, see our speed optimization services at NetKib( www.netkib.com ). || Explore more at Kibria's( www.kibria.net ) website.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-spot.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-spot.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -169,7 +189,7 @@
 		"s_ShortText": "Build a strong LinkedIn presence with a complete profile setup. We highlight your skills, services, and experience to attract connections and clients effectively.",
 		"s_Description": "Build a professional LinkedIn profile that stands out with NetKib( www.netkib.com ). We create detailed, engaging profiles that highlight your skills, experience, and services, making it easier to connect with potential clients and partners. Our team optimizes every section of your profile, ensuring it reflects your brand and boosts your credibility. Let us help you make a lasting impression on LinkedIn. Visit NetKib( www.netkib.com ) for complete LinkedIn profile setup services. || For more details, see Kibria's( www.kibria.net ) personal site.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/lnd-prof-set.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/SocialMediaServicePriceList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/lnd-prof-set.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -189,7 +209,7 @@
 		"s_ShortText": "Grow your brand with professional social media management. We handle posts, ads, and profile updates for consistent engagement across Facebook and Instagram.",
 		"s_Description": "Let NetKib( www.netkib.com ) handle your social media needs with our comprehensive Facebook and Instagram management services. We create engaging posts, manage ad campaigns, update profiles, and provide regular insights to grow your online presence. Our services are designed to increase engagement, build brand awareness, and reach new audiences effectively. Discover the power of professional social media management at NetKib( www.netkib.com ). || Learn more at Kibria's( www.kibria.net ) portfolio.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/SocialMediaServicePriceList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/fb-ins-set.png",    
 		"s_AllImg": [
 			"https://i2.imageban.ru/out/2024/11/05/802d55df7b298d5068481227ff80a790.png",
@@ -209,7 +229,7 @@
 		"s_ShortText": "Bring your vision to life with custom WordPress development. Our solutions are tailored for functionality, aesthetics, and SEO to make your website stand out.",
 		"s_Description": "Transform your vision into a fully functional, optimized website with NetKib( www.netkib.com ). Our WordPress development services cover everything from custom theme and plugin development to site maintenance and performance optimization. Each project is designed for scalability, speed, and SEO, ensuring your website stands out and functions seamlessly. For exceptional WordPress development, visit NetKib( www.netkib.com ). || Explore Kibria's( www.kibria.net ) work for more information.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-dev.png",    
-		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/My_All_Services_List.pdf",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-dev.png",    
 		"s_AllImg": [
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
