@@ -19,33 +19,30 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Essential Maintenance Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Monthly updates for core, themes, and plugins",
+					"Regular backups and basic health checks for reliable performance"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Standard Maintenance &amp; Security Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Bi-weekly updates, malware scans, and uptime monitoring",
+					"Performance optimizations and site security"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Custom Maintenance and Support Solution",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Tailored monthly support with advanced security monitoring",
+					"Backup solutions and full monthly maintenance for large websites"
 				]
 			}
 		],
@@ -74,33 +71,35 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Starter WooCommerce Setup Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Essential WooCommerce store configuration, tailored to launch small online stores quickly",
+					"Integration of up to 3 key plugins, with streamlined product categories",
+					"Upload and setup of 5 products, optimized for SEO",
+					"Secure payment gateway setup for smooth transactions"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Professional WooCommerce Development Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Custom WooCommerce theme integration with mobile-friendly, SEO-optimized layouts",
+					"Enhanced WooCommerce features, including 5 plugins for improved functionality",
+					"SEO-optimized product uploads (up to 15)",
+					"Multiple payment gateways, complete with tax settings for global reach"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Enterprise WooCommerce Solution",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Fully customized eCommerce solutions for larger businesses",
+					"End-to-end store setup with advanced functionality and ongoing support",
+					"Scale-ready WooCommerce solutions with analytics integration"
 				]
 			}
 		],
@@ -129,33 +128,32 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Essential Plugin Development Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Custom single-function plugin tailored to specific site needs",
+					"Lightweight, performance-optimized code with seamless integration",
+					"Installation and onboarding guidance for smooth usage"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Advanced Plugin Creation Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Complex custom plugin with advanced functionality",
+					"SEO and mobile-compatible integration for your WordPress site",
+					"Ongoing support and updates to ensure compatibility and security"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Tailored Plugin Solutions",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Fully customized plugin development for business-critical functionalities",
+					"API integrations, high-performance custom features, and robust security"
 				]
 			}
 		],
@@ -184,33 +182,32 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Essential Theme Development Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Custom theme design with responsive layouts for mobile and desktop",
+					"Lightweight and SEO-friendly code for fast performance",
+					"Installation and post-launch support"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Advanced Custom Theme Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Fully customized, mobile-optimized theme with integrated WooCommerce support",
+					"SEO-optimized, user-friendly design for increased engagement",
+					"Enhanced performance for faster load times"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Complete Theme Solution",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Multi-purpose custom theme with advanced layout options and branding features",
+					"Built-in SEO, speed optimizations, and WooCommerce compatibility for high-impact sites"
 				]
 			}
 		],
@@ -239,33 +236,30 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Basic Theme Customization",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Quick adjustments to fonts, colors, and layout elements for brand consistency",
+					"Improved mobile responsiveness for an optimized user experience"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Advanced Theme Customization",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"In-depth customization for headers, footers, and widgets to align with brand identity",
+					"SEO-focused adjustments to improve rankings"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Complete Theme Overhaul",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Full theme redesign with advanced customization for unique functionality",
+					"Enhanced SEO, performance, and WooCommerce compatibility"
 				]
 			}
 		],
@@ -294,33 +288,30 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Basic Plugin Modification",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Minor feature adjustments and bug fixes for improved plugin performance",
+					"Compatibility checks to ensure seamless integration with your theme"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Extended Plugin Customization",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Addition of complex features to existing plugins for expanded functionality",
+					"Improved SEO and user experience with custom plugin adjustments"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Custom Plugin Enhancement",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Highly tailored plugin modifications, ensuring optimal performance and security",
+					"SEO-focused plugin enhancements and robust code optimization"
 				]
 			}
 		],
@@ -349,33 +340,30 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Starter App Development",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Single-page React app with basic UI components and functionality",
+					"API integration and responsive design for seamless user experience"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Advanced Next.js Application Development",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Multi-page app with custom UI/UX, Next.js routing, and SEO optimization",
+					"Advanced API integrations for rich user experience"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Enterprise-Level App Solutions",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Custom React/Next.js applications with tailored features",
+					"Scalable, high-performance app development"
 				]
 			}
 		],
@@ -404,33 +392,32 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Quick Fix Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Basic troubleshooting for common website issues",
+					"Fast resolution for smoother site performance"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Detailed Error Resolution",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Comprehensive error analysis with code adjustments as needed",
+					"In-depth error analysis and resolution of more complex issues",
+					"Improved site functionality through detailed debugging",
+					"Debugging and plugin compatibility checks"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Complete Error Resolution Solution",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Ongoing troubleshooting and management for large websites",
+					"Proactive support to prevent recurring issues"
 				]
 			}
 		],
@@ -459,33 +446,30 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Basic Speed Optimization Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Image compression and browser caching setup to enhance page speed",
+					"Initial performance audit with actionable insights"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Comprehensive Site Speed Optimization",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Full-speed optimization with lazy loading, caching, and database tuning",
+					"Page load time reduction, aiming for up to 90% improvement"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Custom Speed Optimization Strategy",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Advanced speed solutions for large websites, including CDN integration",
+					"Tailored plan to sustain and improve long-term performance"
 				]
 			}
 		],
@@ -514,33 +498,30 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Basic LinkedIn Profile Setup",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Professional headline, summary, and skill entries",
+					"Industry-specific keywords to enhance search visibility"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Premium LinkedIn Optimization Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Full profile setup with SEO-focused summaries",
+					"Profile banner and targeted content for higher engagement"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Custom LinkedIn Branding Solution",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Tailored LinkedIn strategy for branding and lead generation",
+					"Profile customization for maximized professional impact"
 				]
 			}
 		],
@@ -569,33 +550,30 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Essential Social Media Management",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Weekly 3 posts with SEO-optimized captions and visuals",
+					"Monthly profile update for a consistent brand image"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Premium Social Engagement Package",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Weekly 4 posts, regular reels, and brand-aligned content strategy",
+					"Ad campaign support and insights for audience growth"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Custom Social Media Strategy",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Personalized content and ad strategies to boost engagement",
+					"Comprehensive social management for targeted growth"
 				]
 			}
 		],
@@ -624,33 +602,30 @@
 		],
 		"s_ServicePackageAndList": [
 			{
-				"PlanName": "Basic Plan",
-				"PlanPrice": "Tk 500/Monthly",
+				"PlanName": "Basic WordPress Site Setup",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Installation and configuration of essential plugins and themes",
+					"Simple, responsive design for small business websites"
 				]
 			},
 			{
-				"PlanName": "Premium Plan",
-				"PlanPrice": "Tk 1200/Monthly",
+				"PlanName": "Advanced WordPress Development",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Custom theme and plugin development, optimized for SEO and user experience",
+					"WooCommerce integration for eCommerce capabilities"
 				]
 			},
 			{
-				"PlanName": "Custom Plan",
-				"PlanPrice": "Contact With Us",
+				"PlanName": "Full WordPress Solution",
+				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"list text 1 will here",
-					"list text 2 will here",
-					"list text 3 will here"
+					"Enterprise-level website development with complex functionality",
+					"Comprehensive development with scalability for high-traffic sites"
 				]
 			}
 		],
