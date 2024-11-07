@@ -20,7 +20,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Essential Maintenance Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Monthly updates for core, themes, and plugins",
@@ -29,7 +29,7 @@
 			},
 			{
 				"PlanName": "Standard Maintenance &amp; Security Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Bi-weekly updates, malware scans, and uptime monitoring",
@@ -38,7 +38,7 @@
 			},
 			{
 				"PlanName": "Custom Maintenance and Support Solution",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Tailored monthly support with advanced security monitoring",
@@ -72,7 +72,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Starter WooCommerce Setup Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Essential WooCommerce store configuration, tailored to launch small online stores quickly",
@@ -83,7 +83,7 @@
 			},
 			{
 				"PlanName": "Professional WooCommerce Development Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Custom WooCommerce theme integration with mobile-friendly, SEO-optimized layouts",
@@ -94,7 +94,7 @@
 			},
 			{
 				"PlanName": "Enterprise WooCommerce Solution",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Fully customized eCommerce solutions for larger businesses",
@@ -129,7 +129,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Essential Plugin Development Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Custom single-function plugin tailored to specific site needs",
@@ -139,7 +139,7 @@
 			},
 			{
 				"PlanName": "Advanced Plugin Creation Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Complex custom plugin with advanced functionality",
@@ -149,7 +149,7 @@
 			},
 			{
 				"PlanName": "Tailored Plugin Solutions",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Fully customized plugin development for business-critical functionalities",
@@ -183,7 +183,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Essential Theme Development Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Custom theme design with responsive layouts for mobile and desktop",
@@ -193,7 +193,7 @@
 			},
 			{
 				"PlanName": "Advanced Custom Theme Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Fully customized, mobile-optimized theme with integrated WooCommerce support",
@@ -203,7 +203,7 @@
 			},
 			{
 				"PlanName": "Complete Theme Solution",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Multi-purpose custom theme with advanced layout options and branding features",
@@ -237,7 +237,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Basic Theme Customization",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Quick adjustments to fonts, colors, and layout elements for brand consistency",
@@ -246,7 +246,7 @@
 			},
 			{
 				"PlanName": "Advanced Theme Customization",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"In-depth customization for headers, footers, and widgets to align with brand identity",
@@ -255,7 +255,7 @@
 			},
 			{
 				"PlanName": "Complete Theme Overhaul",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Full theme redesign with advanced customization for unique functionality",
@@ -289,7 +289,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Basic Plugin Modification",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Minor feature adjustments and bug fixes for improved plugin performance",
@@ -298,7 +298,7 @@
 			},
 			{
 				"PlanName": "Extended Plugin Customization",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Addition of complex features to existing plugins for expanded functionality",
@@ -307,7 +307,7 @@
 			},
 			{
 				"PlanName": "Custom Plugin Enhancement",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Highly tailored plugin modifications, ensuring optimal performance and security",
@@ -341,7 +341,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Starter App Development",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Single-page React app with basic UI components and functionality",
@@ -350,7 +350,7 @@
 			},
 			{
 				"PlanName": "Advanced Next.js Application Development",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Multi-page app with custom UI/UX, Next.js routing, and SEO optimization",
@@ -359,7 +359,7 @@
 			},
 			{
 				"PlanName": "Enterprise-Level App Solutions",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Custom React/Next.js applications with tailored features",
@@ -393,7 +393,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Quick Fix Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Basic troubleshooting for common website issues",
@@ -402,7 +402,7 @@
 			},
 			{
 				"PlanName": "Detailed Error Resolution",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Comprehensive error analysis with code adjustments as needed",
@@ -413,7 +413,7 @@
 			},
 			{
 				"PlanName": "Complete Error Resolution Solution",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Ongoing troubleshooting and management for large websites",
@@ -447,7 +447,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Basic Speed Optimization Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Image compression and browser caching setup to enhance page speed",
@@ -456,7 +456,7 @@
 			},
 			{
 				"PlanName": "Comprehensive Site Speed Optimization",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Full-speed optimization with lazy loading, caching, and database tuning",
@@ -465,7 +465,7 @@
 			},
 			{
 				"PlanName": "Custom Speed Optimization Strategy",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Advanced speed solutions for large websites, including CDN integration",
@@ -499,7 +499,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Basic LinkedIn Profile Setup",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Professional headline, summary, and skill entries",
@@ -508,7 +508,7 @@
 			},
 			{
 				"PlanName": "Premium LinkedIn Optimization Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Full profile setup with SEO-focused summaries",
@@ -517,7 +517,7 @@
 			},
 			{
 				"PlanName": "Custom LinkedIn Branding Solution",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Tailored LinkedIn strategy for branding and lead generation",
@@ -551,7 +551,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Essential Social Media Management",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Weekly 3 posts with SEO-optimized captions and visuals",
@@ -560,7 +560,7 @@
 			},
 			{
 				"PlanName": "Premium Social Engagement Package",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Weekly 4 posts, regular reels, and brand-aligned content strategy",
@@ -569,7 +569,7 @@
 			},
 			{
 				"PlanName": "Custom Social Media Strategy",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Personalized content and ad strategies to boost engagement",
@@ -603,7 +603,7 @@
 		"s_ServicePackageAndList": [
 			{
 				"PlanName": "Basic WordPress Site Setup",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Installation and configuration of essential plugins and themes",
@@ -612,7 +612,7 @@
 			},
 			{
 				"PlanName": "Advanced WordPress Development",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Custom theme and plugin development, optimized for SEO and user experience",
@@ -621,7 +621,7 @@
 			},
 			{
 				"PlanName": "Full WordPress Solution",
-				"PlanPrice": "Discuss for hourly / monthly / yearly / contractual",
+				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Enterprise-level website development with complex functionality",
