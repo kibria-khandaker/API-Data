@@ -17,6 +17,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},	
 	{
@@ -37,6 +72,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -57,6 +127,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -77,6 +182,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -97,6 +237,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -117,6 +292,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -137,6 +347,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -157,6 +402,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -177,6 +457,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -197,6 +512,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -217,6 +567,41 @@
 			"https://iili.io/2xyqLUg.png",
 			"https://i.postimg.cc/cL0FLVDz/4-Custom-plan.png"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	},
 	{
@@ -237,6 +622,41 @@
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 			"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
 		],
+		"s_ServicePackageAndList": {
+			"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+			"packageShortText": "text will here - Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minima sequi atque magnam, culpa eveniet?",
+			"BasicPlan": {
+				"PlanName": "Basic Plan",
+				"PlanPrice": "Tk 500/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"PremiumPlan": {
+				"PlanName": "Premium Plan",
+				"PlanPrice": "Tk 1200/Monthly",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			},
+			"CustomPlan": {
+				"PlanName": "Custom Plan",
+				"PlanPrice": "Contact With Us",
+				"PlanContactLink": "https://wa.me/+8801913595268",
+				"PlanLists": [
+				"list text 1 will here",
+				"list text 2 will here",
+				"list text 3 will here"
+				]
+			}
+		},
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	}
 ]
