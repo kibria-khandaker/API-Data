@@ -21,21 +21,26 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Essential Maintenance Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$90/month",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Monthly updates for core, themes, and plugins",
-					"Regular backups and basic health checks for reliable performance"
+					"Monthly updates for plugins, themes, and WordPress core.",
+					"Basic security checks and uptime monitoring.",
+					"Monthly backups.",
+					"Suitable for small websites with minimal maintenance needs"
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Standard Maintenance &amp; Security Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$160/month",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Bi-weekly updates, malware scans, and uptime monitoring",
-					"Performance optimizations and site security"
+					"Weekly updates for plugins, themes, and WordPress core.",
+					"Advanced security measures and malware scanning.",
+					"Weekly backups with restoration support.",
+					"Performance monitoring and minor fixes.",
+					"Ideal for e-commerce or high-traffic websites."
 				]
 			},
 			{
@@ -76,13 +81,15 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Starter WooCommerce Setup Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$300-$500",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Essential WooCommerce store configuration, tailored to launch small online stores quickly",
+					"Installation and configuration of WooCommerce.",
+					"Basic styling",
 					"Integration of up to 3 key plugins, with streamlined product categories",
 					"Upload and setup of 5 products, optimized for SEO",
-					"Secure payment gateway setup for smooth transactions"
+					"Essential WooCommerce store configuration, tailored to launch small online stores quickly",
+					"Suitable for: Small businesses launching an online store with minimal customization."
 				]
 			},
 			{
@@ -91,10 +98,15 @@
 				"PlanPrice": "Discuss for price",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
+					"Everything in Standard WooCommerce Setup.",
+					"Custom product pages and advanced features (e.g., subscriptions, bookings).",
+					"Integration with third-party tools (e.g., CRM, shipping solutions).",
+					"Custom styling and functionality tailored to your business.",
 					"Custom WooCommerce theme integration with mobile-friendly, SEO-optimized layouts",
 					"Enhanced WooCommerce features, including 5 plugins for improved functionality",
 					"SEO-optimized product uploads (up to 15)",
-					"Multiple payment gateways, complete with tax settings for global reach"
+					"Payment gateways, complete with tax settings for global reach",
+					"Ideal for: E-commerce businesses needing a fully customized online store."
 				]
 			},
 			{
@@ -136,23 +148,30 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Essential Plugin Development Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$500-$1000",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
+					"Developing a simple plugin for specific functionality (e.g., custom forms, widgets).",
+					"Codebase following WordPress coding standards.",
+					"Compatibility testing with major themes and plugins.",
 					"Custom single-function plugin tailored to specific site needs",
 					"Lightweight, performance-optimized code with seamless integration",
-					"Installation and onboarding guidance for smooth usage"
+					"Installation and onboarding guidance for smooth usage",
+					"Suitable for: Websites requiring a single feature enhancement."
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Advanced Plugin Creation Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$1500-$5000",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Complex custom plugin with advanced functionality",
+					"Everything in Basic Plugin Development.",
+					"Complex functionality (e.g., integrations with APIs, advanced admin panels).",
+					"Multi-site compatibility.",
+					"Ongoing support and updates for up to 2 months.",
 					"SEO and mobile-compatible integration for your WordPress site",
-					"Ongoing support and updates to ensure compatibility and security"
+					"Ideal for: Businesses needing custom, scalable solutions for WordPress."
 				]
 			},
 			{
@@ -193,23 +212,30 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Essential Theme Development Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$500-$1000",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Custom theme design with responsive layouts for mobile and desktop",
-					"Lightweight and SEO-friendly code for fast performance",
-					"Installation and post-launch support"
+					"Lightweight and SEO-friendly code for fast performance", 
+					"Developing a lightweight and responsive WordPress theme.",
+					"Custom header, footer, and sidebar design.",
+					"Integration with WordPress theme customizer for basic settings.",
+					"Compatibility with popular plugins.",
+					"Suitable for: Personal blogs, portfolios, or simple business websites."
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Advanced Custom Theme Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": " $1500-$3000",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Fully customized, mobile-optimized theme with integrated WooCommerce support",
+					"Everything in Basic Theme Development.",
+					"Fully custom design based on client-provided mockups or branding.",
 					"SEO-optimized, user-friendly design for increased engagement",
-					"Enhanced performance for faster load times"
+					"Enhanced performance for faster load times",
+					"Advanced functionality like custom post types, page templates, and dynamic layouts.",
+					"Ideal for: Businesses needing a unique and feature-rich WordPress theme."
+
 				]
 			},
 			{
@@ -250,21 +276,31 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Basic Theme Customization",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$50-$300",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Quick adjustments to fonts, colors, and layout elements for brand consistency",
-					"Improved mobile responsiveness for an optimized user experience"
+					"Improved mobile responsiveness for an optimized user experience",
+					"Minor adjustments like changing colors, fonts, or layouts.",
+					"Adding or removing sections (e.g., sliders, banners).",
+					"Testing compatibility with updated WordPress versions.",
+					"Suitable for: Quick fixes or light customizations to existing themes."
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Advanced Theme Customization",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$500-$1500",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"In-depth customization for headers, footers, and widgets to align with brand identity",
-					"SEO-focused adjustments to improve rankings"
+					"SEO-focused adjustments to improve rankings",
+					"Complete redesign of the existing theme.",
+					"Advanced changes to layouts, functionality, and style.",
+					"Integration with additional plugins for extended features.",
+					"Ensuring cross-browser and mobile responsiveness.",
+					"Ideal for: Clients looking to revamp their site while retaining the core functionality."
+
 				]
 			},
 			{
@@ -305,21 +341,30 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Basic Plugin Modification",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$100-$500",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Minor feature adjustments and bug fixes for improved plugin performance",
-					"Compatibility checks to ensure seamless integration with your theme"
+					"Compatibility checks to ensure seamless integration with your theme",
+					"Adjusting existing plugin settings (e.g., changing options, modifying functionality).",
+					"Fixing bugs or minor issues in plugin behavior.",
+					"Simple UI/UX improvements based on the theme.",
+					"Suitable for: Websites requiring minor tweaks to a plugin's functionality or design."
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Extended Plugin Customization",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$500-$1500",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Addition of complex features to existing plugins for expanded functionality",
-					"Improved SEO and user experience with custom plugin adjustments"
+					"Improved SEO and user experience with custom plugin adjustments",
+					"Everything in Basic Plugin Customization.",
+					"Creating custom features or adding new functionality to the plugin.",
+					"Integration with other plugins or external services (e.g., payment gateways, CRM).",
+					"Ongoing support and updates for the customized plugin.",
+					"Ideal for: Websites needing complex changes or enhancements to an existing plugin."
 				]
 			},
 			{
@@ -360,21 +405,33 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Starter App Development",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$1000-$3000",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Single-page React app with basic UI components and functionality",
-					"API integration and responsive design for seamless user experience"
+					"API integration and responsive design for seamless user experience",
+					"Building a single-page application (SPA) using React.js or Next.js.",
+					"Integration with RESTful APIs or external data sources.",
+					"Basic UI design and responsive layout.",
+					"Deployment to a production environment.",
+					"Suitable for: Simple applications or MVPs for startups."
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Advanced Next.js Application Development",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$3000-$10000+",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Multi-page app with custom UI/UX, Next.js routing, and SEO optimization",
-					"Advanced API integrations for rich user experience"
+					"Advanced API integrations for rich user experience",
+					"Everything in Basic Application Development.",
+					"Advanced features such as server-side rendering (SSR) with Next.js.",
+					"Custom UI/UX design with high-end interactivity.",
+					"User authentication and complex state management.",
+					"Integration with databases and third-party services (e.g., Firebase, AWS).",
+					"Ongoing support and maintenance for 3 months.",
+					"Ideal for: Complex, data-driven applications or enterprise-level solutions."
 				]
 			},
 			{
@@ -415,23 +472,32 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Quick Fix Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "Flat fee: $100-$400",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Basic troubleshooting for common website issues",
-					"Fast resolution for smoother site performance"
+					"Minor Fixes: For small issues like broken links, plugin updates, or CSS adjustments",
+					"Fast resolution for smoother site performance",
+					"Debugging and resolving common website errors (e.g., broken links, 404 errors, theme/plugin conflicts).",
+					"Basic troubleshooting for website layout or functionality issues.",
+					"Ensuring site runs properly after error resolution.",
+					"Suitable for: Websites with simple errors or issues that do not affect core functionality."
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Detailed Error Resolution",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$25-$45/hour",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Comprehensive error analysis with code adjustments as needed",
 					"In-depth error analysis and resolution of more complex issues",
 					"Improved site functionality through detailed debugging",
-					"Debugging and plugin compatibility checks"
+					"Debugging and plugin compatibility checks",
+					"Moderate Fixes: For more complex issues like debugging PHP errors, resolving plugin conflicts, or improving website speed",
+					"Resolving server-related issues (e.g., database connection errors, internal server errors).",
+					"Detailed error reporting and long-term solutions to prevent future issues.",
+					"Ideal for: Websites experiencing complex issues that impact functionality or performance.",
 				]
 			},
 			{
@@ -441,7 +507,8 @@
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Ongoing troubleshooting and management for large websites",
-					"Proactive support to prevent recurring issues"
+					"Proactive support to prevent recurring issues",
+					"Major Fixes: For critical problems like malware removal, restoring hacked websites, or fixing database issues"
 				]
 			}
 		],
@@ -458,7 +525,7 @@
 		"s_Keywords": "speed up WordPress site, WordPress performance optimization, optimize WordPress loading speed, WordPress speed improvement, reduce WordPress load time, WordPress website speed enhancement",
 		"s_Slogan": "Optimize your site speed for better performance and enhanced user experience.",
 		"s_ShortText": "Improve your WordPress site speed for a better user experience. Our optimization services reduce load times, boosting SEO rankings and customer retention.",
-		"s_Description": "Optimize your site’s speed for an enhanced user experience and improved SEO with NetKib( www.netkib.com ). We focus on compressing images, refining code, and leveraging caching techniques to reduce load times significantly. Speed optimization helps retain visitors, reduces bounce rates, and boosts your site's ranking. For a faster, more efficient site, see our speed optimization services at NetKib( www.netkib.com ). || Explore more at Kibria's( www.kibria.net ) website.",
+		"s_Description": "Optimize your site's speed for an enhanced user experience and improved SEO with NetKib( www.netkib.com ). We focus on compressing images, refining code, and leveraging caching techniques to reduce load times significantly. Speed optimization helps retain visitors, reduces bounce rates, and boosts your site's ranking. For a faster, more efficient site, see our speed optimization services at NetKib( www.netkib.com ). || Explore more at Kibria's( www.kibria.net ) website.",
 		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-spot.png",    
 		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
 		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/wp-spot.png",    
@@ -472,21 +539,30 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Basic Speed Optimization Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$200 (one-time)",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Image compression and browser caching setup to enhance page speed",
-					"Initial performance audit with actionable insights"
+					"Image compression and optimization.",
+					"Browser caching and file minification.",
+					"Database cleanup.",
+					"Google PageSpeed Insights score improvement.",
+					"Perfect for improving general website speed.",
+					"Suitable for: Websites needing general speed improvements with minimal effort."
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Comprehensive Site Speed Optimization",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$500-$1500 (one-time)",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Full-speed optimization with lazy loading, caching, and database tuning",
-					"Page load time reduction, aiming for up to 90% improvement"
+					"Everything in the Standard Optimization.",
+					"Server performance analysis and tuning.",
+					"Ongoing speed monitoring for 30 days post-optimization.",
+					"Best for websites needing high performance, such as e-commerce or media-heavy sites.",
+					"Advanced caching techniques (e.g., Varnish, object caching).",
+					"Comprehensive performance testing and ongoing monitoring.",
+					"Ideal for: High-traffic websites or e-commerce stores requiring top-tier performance optimization."
 				]
 			},
 			{
@@ -527,21 +603,30 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Basic LinkedIn Profile Setup",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$150",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Professional headline, summary, and skill entries",
-					"Industry-specific keywords to enhance search visibility"
+					"Professional headline and summary crafting.",
+					"Profile optimization with professional summary and experience.",
+					"SEO-friendly optimization for visibility.",
+					"Setup of key sections like skills, endorsements, recommendations, experiences, and certifications.",
+					"Ideal for individuals professional Profile on LinkedIn."
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Premium LinkedIn Optimization Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$200-$400",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Full profile setup with SEO-focused summaries",
-					"Profile banner and targeted content for higher engagement"
+					"Everything in the Basic Setup.",
+					"Full profile setup with SEO-focused summaries.",
+					"Custom design for the Services-Page.",
+					"Profile banner and targeted content for higher engagement",
+					"Adding banner image and multimedia content (e.g., videos, portfolio).",
+					"LinkedIn strategy guide for profile engagement and networking.",
+					"Perfect for professionals aiming to attract clients or employers.",
+					"Suitable for: Individuals or personal Service or businesses looking to enhance their LinkedIn presence."
 				]
 			},
 			{
@@ -582,21 +667,29 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Essential Social Media Management",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$300",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Weekly 3 posts with SEO-optimized captions and visuals",
+					"Setup of Facebook and Instagram business profiles.",
+					"Custom profile and cover photos designed to align with your brand.",
+					"Initial content creation and posting schedule for the first month.",
+					"Weekly 4 posts with SEO-optimized captions and visuals first month",
 					"Monthly profile update for a consistent brand image"
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Premium Social Engagement Package",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$1000-$2000/month",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
-					"Weekly 4 posts, regular reels, and brand-aligned content strategy",
-					"Ad campaign support and insights for audience growth"
+					"Everything in Basic Social Media Setup.",
+					"Ongoing content creation (e.g., posts, stories, reels) with a monthly content calendar.",
+					"Paid ad campaign setup and management (budget not included).",
+					"Advanced audience targeting and analytics tracking.",
+					"Community management (responding to comments and messages).",
+					"Monthly performance report and strategy optimization.",
+					"Ideal for: Businesses looking for a comprehensive social media management solution to grow their brand and engage with their audience effectively."
 				]
 			},
 			{
@@ -637,21 +730,33 @@
 			{
 				"PlanType": "Basic Plan",
 				"PlanName": "Basic WordPress Site Setup",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$1000-$2500",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Installation and configuration of essential plugins and themes",
-					"Simple, responsive design for small business websites"
+					"Simple, responsive design for small business websites",
+					"Setting up WordPress on your hosting and configuring basic settings.",
+					"Installing and configuring a theme (premium theme, if provided).",
+					"Basic plugin setup for SEO, security, and backups.",
+					"Up to 5 pages (Home, About, Contact, Services, Blog).",
+					"Suitable for: Small businesses or personal blogs needing a basic WordPress website."
 				]
 			},
 			{
 				"PlanType": "Premium Plan",
 				"PlanName": "Advanced WordPress Development",
-				"PlanPrice": "Discuss for price",
+				"PlanPrice": "$3000-$7500",
 				"PlanContactLink": "https://wa.me/+8801913595268",
 				"PlanLists": [
 					"Custom theme and plugin development, optimized for SEO and user experience",
-					"WooCommerce integration for eCommerce capabilities"
+					"WooCommerce integration for eCommerce capabilities",
+					"Everything in Basic WordPress Website Development.",
+					"Custom theme design or full theme customization.",
+					"Advanced plugin development or customization for added functionality.",
+					"E-commerce setup with WooCommerce (if needed).",
+					"SEO and performance optimization.",
+					"30-60 days of post-launch support.",
+					"Ideal for: Businesses or brands needing a unique, feature-rich WordPress site with specific functionalities.",
 				]
 			},
 			{
