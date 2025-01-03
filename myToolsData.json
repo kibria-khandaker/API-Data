@@ -1,5 +1,18 @@
 [
   {
+    "_id": 10,
+    "appTitle": "Ratio Calculate Tool",
+    "appCategory": "Calculator",
+    "appType": "Web Application",
+    "appUrl": "https://kibria-khandaker.github.io/RatioCalculator/",
+    "appGitFrontUrl": "https://github.com/kibria-khandaker/RatioCalculator",
+    "appGitServerUrl": "https://github.com/kibria-khandaker/RatioCalculator",
+    "appTechnology": "HTML, CSS, JavaScript",
+    "appShortText": "A web-based application for calculating numbers from given ratios, scaling factors, and optional smaller target numbers.",
+    "appIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/ratioCalculator.svg",
+    "appImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/ratioCalculator.svg"
+  },  
+  {
     "_id": 9,
     "appTitle": "World Clock",
     "appCategory": "tools",
