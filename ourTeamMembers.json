@@ -1,0 +1,38 @@
+[
+    {
+      "_id": 1,
+      "teamMemberName": "Golam Kibria",
+      "teamMemberPosition": " Web & Application Developer",
+      "teamMemberAddress": "Kishoreganj, Dhaka, Bangladesh",
+      "teamMemberImg": "https://res.cloudinary.com/dn68qa8i9/image/upload/v1734994261/myTeam/bmlwccvgdg1fs7mjouxx.jpg"
+    },  
+    {
+      "_id": 2,
+      "teamMemberName": "Md. Makinul Hasan Khan Nasim",
+      "teamMemberPosition": "Mobile application developer & Software architect",
+      "teamMemberAddress": "Dhaka, Bangladesh",
+      "teamMemberImg": "https://res.cloudinary.com/dn68qa8i9/image/upload/v1734994261/myTeam/sakshyxe976lcuyzrrpy.jpg"
+    },
+    {
+      "_id": 3,
+      "teamMemberName": "Pradip Hatuya",
+      "teamMemberPosition": "SEO & Social Marketing Expert",
+      "teamMemberAddress": "West Bengal, India",
+      "teamMemberImg": "https://res.cloudinary.com/dn68qa8i9/image/upload/v1734994261/myTeam/u8mze4vylm7tfoia5pqx.jpg"
+    },
+    {
+      "_id": 4,
+      "teamMemberName": "Golam Rabbany",
+      "teamMemberPosition": "Social Media Maintenance expert",
+      "teamMemberAddress": "Kishoreganj, Dhaka, Bangladesh",
+      "teamMemberImg": "https://res.cloudinary.com/dn68qa8i9/image/upload/v1734997603/myTeam/zkjjo2arehcs6dcdnwx8.jpg"
+    },
+    {
+      "_id": 5,
+      "teamMemberName": "Hasibul Hasan",
+      "teamMemberPosition": "Content Writer & Analyst",
+      "teamMemberAddress": "Kishoreganj, Dhaka, Bangladesh",
+      "teamMemberImg": "https://res.cloudinary.com/dn68qa8i9/image/upload/v1734994261/myTeam/stlmoxoq18xws0aw00vw.jpg"
+    }
+  ]
+  

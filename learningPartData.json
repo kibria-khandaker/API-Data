@@ -1,0 +1,42 @@
+[
+  {
+    "_id": 2,
+    "learningTitle": "Learn WordPress",
+    "learningCategory": "WordPress",
+    "learningTopics": "WP Theme Development , WP Plugin Development , E-commerce Development, WordPress Customization",
+    "learningButtons": [
+      {
+        "learningButtonText": "WP Development 1",
+        "learningButtonUrl": "#"
+      },
+      {
+        "learningButtonText": "WP Development 2",
+        "learningButtonUrl": "#"
+      },
+      {
+        "learningButtonText": "WP Development 3",
+        "learningButtonUrl": "#"
+      }
+    ],
+    "learningShortText": "We offer a complete solution for all your website needs, making it 100% beneficial for freelancers, digital marketers, and online businesses.",
+    "learningImg": "https://res.cloudinary.com/dn68qa8i9/image/upload/v1735072658/myTeam/msdoagn1uxnt5cu7ewne.jpg"
+  },
+  {
+    "_id": 1,
+    "learningTitle": "Learn Web Development Form Scratch",
+    "learningCategory": "Web Development",
+    "learningTopics": "HTML, CSS, JavaScript, PHP, WordPress Customization",
+    "learningButtons": [
+      {
+        "learningButtonText": "Web Development 1",
+        "learningButtonUrl": "#"
+      },
+      {
+        "learningButtonText": "Web Development 2",
+        "learningButtonUrl": "#"
+      }
+    ],
+    "learningShortText": "We offer a complete solution for all your website needs, making it 100% beneficial for freelancers, digital marketers, and online businesses.",
+    "learningImg": "https://res.cloudinary.com/dn68qa8i9/image/upload/v1735071052/myTeam/oznnq40p0ugma4mk02pb.jpg"
+  }
+]
