@@ -6,15 +6,7 @@
     "learningTopics": "WP Theme Development , WP Plugin Development , E-commerce Development, WordPress Customization",
     "learningButtons": [
       {
-        "learningButtonText": "WP Development 1",
-        "learningButtonUrl": "#"
-      },
-      {
-        "learningButtonText": "WP Development 2",
-        "learningButtonUrl": "#"
-      },
-      {
-        "learningButtonText": "WP Development 3",
+        "learningButtonText": "WP Development",
         "learningButtonUrl": "#"
       }
     ],
@@ -28,12 +20,12 @@
     "learningTopics": "HTML, CSS, JavaScript, PHP, WordPress Customization",
     "learningButtons": [
       {
-        "learningButtonText": "Web Development 1",
-        "learningButtonUrl": "#"
+        "learningButtonText": "Training Syllabus or Curriculum",
+        "learningButtonUrl": "https://docs.google.com/document/d/e/2PACX-1vRPtJDLeTe7D67A1lkoEQ6tJs5_dE5wOdkyNDUwC3jFfLgwe4z2rrxp9pWpmz203gYNha2XFzsp3Z49/pub"
       },
       {
-        "learningButtonText": "Web Development 2",
-        "learningButtonUrl": "#"
+        "learningButtonText": "Want to Do this Training",
+        "learningButtonUrl": "https://wa.me/+8801913595268"
       }
     ],
     "learningShortText": "We offer a complete solution for all your website needs, making it 100% beneficial for freelancers, digital marketers, and online businesses.",
