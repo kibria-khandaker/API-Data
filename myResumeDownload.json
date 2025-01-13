@@ -14,13 +14,6 @@
     "resumeDownloadBtnIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/dumbbellSolid.svg"
   },
   {
-    "_id": 3,
-    "resumeDownloadBtnTitle": "Frontend Developer",
-    "resumeDownloadBtnSubTitle": "Frontend Developer",
-    "resumeDownloadBtnUrl": "https://drive.google.com/file/d/1sz97gFwPiFJhJ5h26nClVxgayFSVs-st/view?usp=sharing",
-    "resumeDownloadBtnIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/dumbbellSolid.svg"
-  },
-  {
     "_id": 1,
     "resumeDownloadBtnTitle": "WordPress Developer",
     "resumeDownloadBtnSubTitle": "WordPress Developer",
@@ -33,5 +26,12 @@
     "resumeDownloadBtnSubTitle": "WordPress and Frontend Developer",
     "resumeDownloadBtnUrl": "https://drive.google.com/file/d/1WoP_jhCNsq34ndwnHBQuqCF-GGc_vNXA/view?usp=sharing",
     "resumeDownloadBtnIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/listCheckSolid.svg"
+  },
+  {
+    "_id": 3,
+    "resumeDownloadBtnTitle": "Frontend Developer",
+    "resumeDownloadBtnSubTitle": "Frontend Developer",
+    "resumeDownloadBtnUrl": "https://drive.google.com/file/d/1sz97gFwPiFJhJ5h26nClVxgayFSVs-st/view?usp=sharing",
+    "resumeDownloadBtnIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/dumbbellSolid.svg"
   }
 ]
