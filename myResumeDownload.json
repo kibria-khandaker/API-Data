@@ -1,0 +1,16 @@
+[
+    {
+      "_id": 2,
+      "resumeDownloadBtnTitle": "Download Btn Title 2",
+      "resumeDownloadBtnSubTitle": "Download Btn Sub Title 2",
+      "resumeDownloadBtnUrl": "https://drive.google.com/file/d/1WoP_jhCNsq34ndwnHBQuqCF-GGc_vNXA/view?usp=sharing",
+      "resumeDownloadBtnIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/dumbbellSolid.svg"
+    },
+    {
+      "_id": 1,
+      "resumeDownloadBtnTitle": "Download Btn Title 1",
+      "resumeDownloadBtnSubTitle": "Download Btn Sub Title 1",
+      "resumeDownloadBtnUrl": "https://drive.google.com/file/d/1WoP_jhCNsq34ndwnHBQuqCF-GGc_vNXA/view?usp=sharing",
+      "resumeDownloadBtnIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/listCheckSolid.svg"
+    }
+  ]
