@@ -7,7 +7,7 @@
     "resumeDownloadBtnIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/dumbbellSolid.svg"
   },
   {
-    "_id": 1,
+    "_id": 4,
     "resumeDownloadBtnTitle": "React & Frontend Developer",
     "resumeDownloadBtnSubTitle": "React & Frontend Developer",
     "resumeDownloadBtnUrl": "https://drive.google.com/file/d/1IDOLlftmAEjoBXRQsBI_c-oV_DQ3uGqu/view?usp=sharing",
@@ -26,5 +26,12 @@
     "resumeDownloadBtnSubTitle": "WordPress Developer",
     "resumeDownloadBtnUrl": "https://drive.google.com/file/d/1KiqJyqq7NYwpW5ODnfhLeSfclrJIJfvo/view?usp=sharing",
     "resumeDownloadBtnIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/dumbbellSolid.svg"
+  },
+  {
+    "_id": 1,
+    "resumeDownloadBtnTitle": "WordPress and Frontend Developer",
+    "resumeDownloadBtnSubTitle": "WordPress and Frontend Developer",
+    "resumeDownloadBtnUrl": "https://drive.google.com/file/d/1WoP_jhCNsq34ndwnHBQuqCF-GGc_vNXA/view?usp=sharing",
+    "resumeDownloadBtnIcon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/listCheckSolid.svg"
   }
 ]
