@@ -3,7 +3,7 @@
       "_id": 1,
       "teamMemberName": "Golam Kibria",
       "teamMemberPosition": " Web & Application Developer",
-      "teamMemberAddress": "Kishoreganj, Dhaka, Bangladesh",
+      "teamMemberAddress": "Doha, Qatar",
       "teamMemberImg": "https://res.cloudinary.com/dn68qa8i9/image/upload/v1734994261/myTeam/bmlwccvgdg1fs7mjouxx.jpg"
     },  
     {
@@ -30,8 +30,8 @@
     {
       "_id": 5,
       "teamMemberName": "Hasibul Hasan",
-      "teamMemberPosition": "Content Writer & Analyst",
-      "teamMemberAddress": "Kishoreganj, Dhaka, Bangladesh",
+      "teamMemberPosition": "Software Engineer",
+      "teamMemberAddress": "Dhaka, Bangladesh",
       "teamMemberImg": "https://res.cloudinary.com/dn68qa8i9/image/upload/v1734994261/myTeam/stlmoxoq18xws0aw00vw.jpg"
     }
   ]
