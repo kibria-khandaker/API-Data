@@ -1,5 +1,12 @@
 [
   {
+    "_id": 10,
+    "taskTitle": "Lav Loss Calculation application",
+    "taskDescription": "A web-based application for calculating two type numbers of compare,",
+    "taskStatus": "done",
+    "taskUrl": "https://kibria-khandaker.github.io/LavLossCalculation/"
+  },
+   {
     "_id": 9,
     "taskTitle": "Class 1-5 math solve application",
     "taskDescription": "Here will a form and input option will available and after complete everything able to print or save as PDF file,",
