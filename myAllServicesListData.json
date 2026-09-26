@@ -784,9 +784,9 @@
 		"s_Slogan": "Build powerful cross-platform mobile apps with professional React Native development by NetKib.com",
 		"s_ShortText": "Transform your idea into a modern mobile application with React Native development by NetKib. We build fast, scalable, and user-friendly apps for Android and iOS platforms.",
 		"s_Description": "Looking for a modern mobile application that works smoothly across Android and iOS? NetKib provides professional React Native mobile app development services for businesses, startups, e-commerce platforms, and custom digital solutions. We focus on responsive interfaces, reliable performance, API integration, scalable architecture, and a smooth user experience. Whether you need a business application, customer portal, e-commerce app, service booking app, or a completely custom solution, NetKib can plan, develop, test, and improve your mobile application according to your requirements. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
-		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/mo-ap-dev.png",
 		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
-		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/mo-ap-dev.png",
 		"s_AllImg": [
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -849,9 +849,9 @@
 		"s_Slogan": "Manage your website and social presence professionally with NetKib.com",
 		"s_ShortText": "Keep your website and social media channels active, updated, and professionally managed with NetKib. We help businesses maintain a consistent and reliable digital presence.",
 		"s_Description": "Managing a website and multiple social media platforms can require significant time and continuous attention. NetKib provides website and social media management services designed to help businesses maintain a professional and consistent online presence. Our services can include website content updates, basic website monitoring, social media content management, page optimization, publishing support, profile maintenance, and ongoing digital presence management. The exact workflow can be customized according to your business, platforms, content requirements, and monthly activity. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
-		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/web-so-mg.png",
 		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
-		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/web-so-mg.png",
 		"s_AllImg": [
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -913,9 +913,9 @@
 		"s_Slogan": "Track valuable customer actions accurately with professional Meta Pixel setup by NetKib.com",
 		"s_ShortText": "Set up Meta Pixel and conversion tracking correctly with NetKib. Track important website actions and provide better conversion data for your Meta advertising campaigns.",
 		"s_Description": "Accurate conversion tracking is essential for understanding how visitors interact with your website and how your Meta advertising campaigns perform. NetKib provides Meta Pixel and conversion tracking setup services for websites, landing pages, and e-commerce stores. We can configure the Meta Pixel, standard events, custom events, conversion actions, and test the implementation to help ensure that important visitor actions are being recorded correctly. Depending on your website and business requirements, tracking can include page views, leads, registrations, purchases, add-to-cart events, checkout events, and other important actions. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
-		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/meta-pixel-conv.png",
 		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
-		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/meta-pixel-conv.png",
 		"s_AllImg": [
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -977,9 +977,9 @@
 		"s_Slogan": "Improve Meta conversion data reliability with professional Conversions API setup by NetKib.com",
 		"s_ShortText": "Improve Meta tracking reliability with professional Conversions API setup. NetKib configures server-side conversion tracking and helps align browser and server events correctly.",
 		"s_Description": "Browser-based tracking alone may not capture every conversion reliably. Meta Conversions API allows businesses to send selected website and customer interaction events to Meta through server-side connections. NetKib provides Meta Conversions API setup and integration services for compatible websites and e-commerce platforms. We can configure server-side events, connect them with Meta Pixel events, implement event deduplication, test event matching, and troubleshoot tracking issues. The implementation method depends on your website platform, server environment, tracking stack, and business requirements. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
-		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/meta-comv-api.png",
 		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
-		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/meta-comv-api.png",
 		"s_AllImg": [
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -1041,9 +1041,9 @@
 		"s_Slogan": "Understand your e-commerce customer journey with accurate conversion tracking by NetKib.com",
 		"s_ShortText": "Track purchases, carts, checkouts, and other important e-commerce actions accurately. NetKib helps businesses build reliable conversion tracking for better marketing and analytics.",
 		"s_Description": "Reliable e-commerce conversion tracking helps you understand which channels, campaigns, and customer actions are contributing to sales. NetKib provides e-commerce conversion tracking services for WooCommerce and other compatible online stores. Depending on the platform and requirements, we can configure product views, add-to-cart events, checkout actions, purchases, order values, transaction information, and other important e-commerce events across supported analytics and advertising platforms. We also test the implementation to identify duplicate, missing, or incorrectly configured events. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
-		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/e-com-conv.png",
 		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
-		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/e-com-conv.png",
 		"s_AllImg": [
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -1105,9 +1105,9 @@
 		"s_Slogan": "Turn website activity into useful data with professional analytics and tracking setup by NetKib.com",
 		"s_ShortText": "Understand how visitors interact with your website through professional analytics and tracking setup. NetKib configures essential tools, events, and conversions for reliable website data.",
 		"s_Description": "Website analytics can help businesses understand traffic sources, visitor behavior, conversions, and important customer interactions. NetKib provides website analytics and tracking setup services using appropriate analytics and tag management tools according to project requirements. Services can include Google Analytics 4 configuration, Google Tag Manager setup, custom events, conversion tracking, form submission tracking, button click tracking, outbound link tracking, and other important website interactions. We also test the implementation to help ensure that the collected data is useful and correctly configured. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
-		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/web-anly.png",
 		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
-		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/web-anly.png",
 		"s_AllImg": [
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -1169,9 +1169,9 @@
 		"s_Slogan": "Automate repetitive work and build smarter business workflows with AI solutions from NetKib.com",
 		"s_ShortText": "Improve business efficiency with AI automation, custom AI agents, workflow integration, and process automation solutions designed around your actual business operations.",
 		"s_Description": "AI automation can help businesses reduce repetitive manual work, connect systems, organize information, improve response workflows, and create more efficient business processes. NetKib provides AI Automation & Business Solutions tailored to specific operational requirements. Our services include AI Automation & Business Workflow Setup, Custom AI Agent Development, Business Process Automation, and AI Integration & Custom Workflow Development. Depending on the project, we can connect AI models with websites, APIs, databases, forms, business tools, internal workflows, or other supported systems. Each solution is planned around the actual process instead of applying automation where it does not provide meaningful value. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
-		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ai-auto.png",
 		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
-		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ai-auto.png",
 		"s_AllImg": [
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
@@ -1224,6 +1224,74 @@
 		"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 		"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
 		"packageShortText": "NB: AI automation requirements vary significantly between businesses. Final scope, pricing, and implementation depend on workflow complexity, integrations, API costs, and project requirements.",
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+	},
+	{
+	"_id": 20,
+	"s_Title": "Meta Pixel Setup",
+	"s_ContactUrl": "https://wa.me/+8801913595268",
+	"s_Category": "Analytics & Tracking",
+	"s_Keywords": "Meta Pixel setup,Facebook Pixel setup,Meta Pixel installation,Facebook Pixel installation,Meta event tracking,Facebook Ads tracking,website pixel setup,Meta Ads conversion tracking,Facebook event tracking",
+	"s_Slogan": "Set up Meta Pixel correctly and start tracking valuable website actions with NetKib.com",
+	"s_ShortText": "Professional Meta Pixel setup for websites, landing pages, and e-commerce stores. NetKib configures the Pixel, connects your website, sets up important events, and verifies that tracking is working correctly.",
+	"s_Description": "Meta Pixel helps businesses understand how visitors interact with their websites and provides useful event data for Meta advertising campaigns. NetKib provides professional Meta Pixel setup services for business websites, landing pages, WordPress websites, WooCommerce stores, and other compatible platforms. We can install and configure the Meta Pixel, connect it with your website, configure standard events, create custom events where required, and test the implementation using Meta's available diagnostic tools. Depending on your website and business requirements, tracking may include PageView, ViewContent, Lead, Contact, AddToCart, InitiateCheckout, Purchase, CompleteRegistration, and other relevant actions. We also check event firing and help troubleshoot common Pixel tracking issues. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
+	"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/meta-pixel.png",
+	"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
+	"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/meta-pixel.png",
+	"s_AllImg": [
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+	],
+	"s_ServicePackageAndList": [
+		{
+			"PlanType": "Basic Plan",
+			"PlanName": "Essential Meta Pixel Setup",
+			"PlanPrice": "$80",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+				"Meta Pixel installation.",
+				"Website connection with Meta.",
+				"PageView event configuration.",
+				"Up to 2 standard event setups.",
+				"Basic Pixel testing and verification.",
+				"Suitable for simple business websites and landing pages."
+			]
+		},
+		{
+			"PlanType": "Premium Plan",
+			"PlanName": "Advanced Meta Pixel Setup",
+			"PlanPrice": "$150",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+				"Complete Meta Pixel installation and configuration.",
+				"Multiple standard event setups.",
+				"Custom event configuration where required.",
+				"Lead or e-commerce event tracking.",
+				"Event parameter configuration where applicable.",
+				"Event testing and troubleshooting.",
+				"Meta Events Manager configuration review."
+			]
+		},
+		{
+			"PlanType": "Custom Plan",
+			"PlanName": "Custom Meta Pixel Tracking Solution",
+			"PlanPrice": "Discuss for price",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+				"Custom Pixel and event tracking architecture.",
+				"Advanced custom event implementation.",
+				"Complex lead or e-commerce tracking requirements.",
+				"Custom platform or website integration.",
+				"Existing Pixel tracking troubleshooting.",
+				"Tracking setup based on specific business requirements."
+			]
+		}
+		],
+		"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageShortText": "NB: Service plans, prices, and included features may vary depending on website platform, number of events, tracking requirements, complexity, time, and market demand.",
 		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
 	}
 ]
