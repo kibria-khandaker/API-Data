@@ -1,5 +1,456 @@
 [
 	{
+		"_id": 13,
+		"s_Title": "Mobile App Development",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Mobile App Development",
+		"s_Keywords": "mobile app development,React Native development,React Native mobile app development,cross-platform app development,Android app development,iOS app development,custom mobile application development",
+		"s_Slogan": "Build powerful cross-platform mobile apps with professional React Native development by NetKib.com",
+		"s_ShortText": "Transform your idea into a modern mobile application with React Native development by NetKib. We build fast, scalable, and user-friendly apps for Android and iOS platforms.",
+		"s_Description": "Looking for a modern mobile application that works smoothly across Android and iOS? NetKib provides professional React Native mobile app development services for businesses, startups, e-commerce platforms, and custom digital solutions. We focus on responsive interfaces, reliable performance, API integration, scalable architecture, and a smooth user experience. Whether you need a business application, customer portal, e-commerce app, service booking app, or a completely custom solution, NetKib can plan, develop, test, and improve your mobile application according to your requirements. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_AllImg": [
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_ServicePackageAndList": [
+		{
+			"PlanType": "Basic Plan",
+			"PlanName": "Starter React Native App",
+			"PlanPrice": "Starting from $800",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"React Native mobile app development.",
+			"Basic Android and iOS application setup.",
+			"Responsive and user-friendly interface.",
+			"Basic API integration.",
+			"Testing and basic deployment support."
+			]
+		},
+		{
+			"PlanType": "Premium Plan",
+			"PlanName": "Professional Mobile App Solution",
+			"PlanPrice": "Starting from $1500",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Advanced React Native application development.",
+			"Android and iOS support.",
+			"Custom UI and application functionality.",
+			"API and third-party service integration.",
+			"Authentication and user management features.",
+			"Performance optimization and testing.",
+			"Deployment assistance."
+			]
+		},
+		{
+			"PlanType": "Custom Plan",
+			"PlanName": "Custom Mobile App Development",
+			"PlanPrice": "Discuss for price",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Custom application planning and development.",
+			"Advanced integrations and custom workflows.",
+			"Scalable architecture for complex applications.",
+			"Ongoing development and maintenance options."
+			]
+		}
+		],
+		"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageShortText": "NB: Service plans, prices, and values may vary based on project requirements, complexity, time, and market demand.",
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+	},
+	{
+		"_id": 14,
+		"s_Title": "Website & Social Media Management",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Digital Marketing",
+		"s_Keywords": "website management,social media management,website maintenance,business social media management,Facebook page management,Instagram management,LinkedIn management,digital presence management",
+		"s_Slogan": "Manage your website and social presence professionally with NetKib.com",
+		"s_ShortText": "Keep your website and social media channels active, updated, and professionally managed with NetKib. We help businesses maintain a consistent and reliable digital presence.",
+		"s_Description": "Managing a website and multiple social media platforms can require significant time and continuous attention. NetKib provides website and social media management services designed to help businesses maintain a professional and consistent online presence. Our services can include website content updates, basic website monitoring, social media content management, page optimization, publishing support, profile maintenance, and ongoing digital presence management. The exact workflow can be customized according to your business, platforms, content requirements, and monthly activity. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_AllImg": [
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_ServicePackageAndList": [
+		{
+			"PlanType": "Basic Plan",
+			"PlanName": "Essential Digital Management",
+			"PlanPrice": "$180/month",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Basic website content updates.",
+			"Management of selected social media profiles.",
+			"Profile information and business details updates.",
+			"Basic publishing and page monitoring.",
+			"Suitable for small businesses."
+			]
+		},
+		{
+			"PlanType": "Premium Plan",
+			"PlanName": "Professional Website & Social Management",
+			"PlanPrice": "$350/month",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Regular website content management.",
+			"Multiple social media platform management.",
+			"Content publishing and scheduling support.",
+			"Page and profile optimization.",
+			"Basic performance monitoring.",
+			"Ongoing digital presence maintenance."
+			]
+		},
+		{
+			"PlanType": "Custom Plan",
+			"PlanName": "Custom Digital Management Solution",
+			"PlanPrice": "Discuss for price",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Customized website management workflow.",
+			"Customized social media management.",
+			"Flexible content and publishing requirements.",
+			"Solutions tailored to business size and workload."
+			]
+		}
+		],
+		"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageShortText": "NB: Service plans, prices, and values may vary based on workload, platforms, content requirements, time, and market demand.",
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+	},
+	{
+		"_id": 15,
+		"s_Title": "Meta Pixel & Conversion Tracking Setup",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Analytics & Tracking",
+		"s_Keywords": "Meta Pixel setup,Facebook Pixel setup,Meta conversion tracking,Facebook conversion tracking,Meta Pixel installation,event tracking,Facebook Ads tracking,Meta Ads optimization",
+		"s_Slogan": "Track valuable customer actions accurately with professional Meta Pixel setup by NetKib.com",
+		"s_ShortText": "Set up Meta Pixel and conversion tracking correctly with NetKib. Track important website actions and provide better conversion data for your Meta advertising campaigns.",
+		"s_Description": "Accurate conversion tracking is essential for understanding how visitors interact with your website and how your Meta advertising campaigns perform. NetKib provides Meta Pixel and conversion tracking setup services for websites, landing pages, and e-commerce stores. We can configure the Meta Pixel, standard events, custom events, conversion actions, and test the implementation to help ensure that important visitor actions are being recorded correctly. Depending on your website and business requirements, tracking can include page views, leads, registrations, purchases, add-to-cart events, checkout events, and other important actions. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_AllImg": [
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_ServicePackageAndList": [
+		{
+			"PlanType": "Basic Plan",
+			"PlanName": "Essential Meta Pixel Setup",
+			"PlanPrice": "$120",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Meta Pixel installation.",
+			"Basic standard event configuration.",
+			"Website connection verification.",
+			"Basic event testing.",
+			"Suitable for simple business websites."
+			]
+		},
+		{
+			"PlanType": "Premium Plan",
+			"PlanName": "Advanced Meta Conversion Tracking",
+			"PlanPrice": "$220",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Complete Meta Pixel configuration.",
+			"Multiple conversion event setup.",
+			"Custom event configuration where required.",
+			"Lead or e-commerce conversion tracking.",
+			"Event testing and troubleshooting.",
+			"Tracking configuration review."
+			]
+		},
+		{
+			"PlanType": "Custom Plan",
+			"PlanName": "Custom Meta Tracking Solution",
+			"PlanPrice": "Discuss for price",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Custom event and conversion architecture.",
+			"Advanced website or application tracking requirements.",
+			"Custom integrations and troubleshooting.",
+			"Tracking strategy based on business requirements."
+			]
+		}
+		],
+		"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageShortText": "NB: Service plans, prices, and values may vary based on website structure, tracking requirements, complexity, time, and market demand.",
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+	},
+	{
+		"_id": 16,
+		"s_Title": "Meta Conversions API (CAPI) Setup",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Analytics & Tracking",
+		"s_Keywords": "Meta Conversions API setup,Facebook CAPI setup,Meta CAPI integration,server-side tracking,Facebook server-side tracking,Meta conversion tracking,Conversions API integration,Meta Pixel CAPI",
+		"s_Slogan": "Improve Meta conversion data reliability with professional Conversions API setup by NetKib.com",
+		"s_ShortText": "Improve Meta tracking reliability with professional Conversions API setup. NetKib configures server-side conversion tracking and helps align browser and server events correctly.",
+		"s_Description": "Browser-based tracking alone may not capture every conversion reliably. Meta Conversions API allows businesses to send selected website and customer interaction events to Meta through server-side connections. NetKib provides Meta Conversions API setup and integration services for compatible websites and e-commerce platforms. We can configure server-side events, connect them with Meta Pixel events, implement event deduplication, test event matching, and troubleshoot tracking issues. The implementation method depends on your website platform, server environment, tracking stack, and business requirements. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_AllImg": [
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_ServicePackageAndList": [
+		{
+			"PlanType": "Basic Plan",
+			"PlanName": "Essential CAPI Setup",
+			"PlanPrice": "$180",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Basic Meta Conversions API setup.",
+			"Selected server-side event configuration.",
+			"Meta Pixel and CAPI connection.",
+			"Basic event deduplication setup.",
+			"Initial testing and verification."
+			]
+		},
+		{
+			"PlanType": "Premium Plan",
+			"PlanName": "Advanced Meta CAPI Integration",
+			"PlanPrice": "$320",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Advanced server-side tracking configuration.",
+			"Multiple conversion event setup.",
+			"Pixel and server event deduplication.",
+			"Event matching configuration.",
+			"E-commerce or lead tracking integration.",
+			"Testing and troubleshooting."
+			]
+		},
+		{
+			"PlanType": "Custom Plan",
+			"PlanName": "Custom Server-Side Tracking Solution",
+			"PlanPrice": "Discuss for price",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Custom Meta CAPI architecture.",
+			"Advanced server-side event implementation.",
+			"Custom API or platform integration.",
+			"Complex tracking troubleshooting and optimization."
+			]
+		}
+		],
+		"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageShortText": "NB: Service plans, prices, and values may vary based on platform, server environment, tracking requirements, complexity, time, and market demand.",
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+	},
+	{
+		"_id": 17,
+		"s_Title": "E-Commerce Conversion Tracking",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Analytics & Tracking",
+		"s_Keywords": "e-commerce conversion tracking,WooCommerce conversion tracking,purchase tracking,add to cart tracking,checkout tracking,ecommerce analytics,Meta ecommerce tracking,Google Analytics ecommerce tracking",
+		"s_Slogan": "Understand your e-commerce customer journey with accurate conversion tracking by NetKib.com",
+		"s_ShortText": "Track purchases, carts, checkouts, and other important e-commerce actions accurately. NetKib helps businesses build reliable conversion tracking for better marketing and analytics.",
+		"s_Description": "Reliable e-commerce conversion tracking helps you understand which channels, campaigns, and customer actions are contributing to sales. NetKib provides e-commerce conversion tracking services for WooCommerce and other compatible online stores. Depending on the platform and requirements, we can configure product views, add-to-cart events, checkout actions, purchases, order values, transaction information, and other important e-commerce events across supported analytics and advertising platforms. We also test the implementation to identify duplicate, missing, or incorrectly configured events. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_AllImg": [
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_ServicePackageAndList": [
+		{
+			"PlanType": "Basic Plan",
+			"PlanName": "Essential E-Commerce Tracking",
+			"PlanPrice": "$220",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Basic e-commerce conversion tracking setup.",
+			"Product view and add-to-cart tracking.",
+			"Checkout and purchase tracking.",
+			"Basic transaction value configuration.",
+			"Tracking verification and testing."
+			]
+		},
+		{
+			"PlanType": "Premium Plan",
+			"PlanName": "Advanced E-Commerce Tracking",
+			"PlanPrice": "$400",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Complete e-commerce event tracking.",
+			"Product, cart, checkout, and purchase events.",
+			"Revenue and transaction data tracking.",
+			"Multiple analytics or advertising platform integration.",
+			"Duplicate and missing event troubleshooting.",
+			"Advanced testing and verification."
+			]
+		},
+		{
+			"PlanType": "Custom Plan",
+			"PlanName": "Custom E-Commerce Tracking Solution",
+			"PlanPrice": "Discuss for price",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Custom e-commerce tracking architecture.",
+			"Custom store or checkout workflow tracking.",
+			"Advanced event and data layer requirements.",
+			"Custom integrations based on business needs."
+			]
+		}
+		],
+		"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageShortText": "NB: Service plans, prices, and values may vary based on store platform, number of events, integrations, complexity, time, and market demand.",
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+	},
+	{
+		"_id": 18,
+		"s_Title": "Website Analytics & Tracking Setup",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "Analytics & Tracking",
+		"s_Keywords": "website analytics setup,Google Analytics setup,GA4 setup,Google Tag Manager setup,website tracking,conversion tracking,event tracking,website visitor analytics,analytics implementation",
+		"s_Slogan": "Turn website activity into useful data with professional analytics and tracking setup by NetKib.com",
+		"s_ShortText": "Understand how visitors interact with your website through professional analytics and tracking setup. NetKib configures essential tools, events, and conversions for reliable website data.",
+		"s_Description": "Website analytics can help businesses understand traffic sources, visitor behavior, conversions, and important customer interactions. NetKib provides website analytics and tracking setup services using appropriate analytics and tag management tools according to project requirements. Services can include Google Analytics 4 configuration, Google Tag Manager setup, custom events, conversion tracking, form submission tracking, button click tracking, outbound link tracking, and other important website interactions. We also test the implementation to help ensure that the collected data is useful and correctly configured. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_AllImg": [
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_ServicePackageAndList": [
+		{
+			"PlanType": "Basic Plan",
+			"PlanName": "Essential Website Analytics Setup",
+			"PlanPrice": "$150",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Google Analytics 4 setup.",
+			"Basic Google Tag Manager configuration.",
+			"Page view and basic interaction tracking.",
+			"Basic conversion setup.",
+			"Initial testing and verification."
+			]
+		},
+		{
+			"PlanType": "Premium Plan",
+			"PlanName": "Advanced Analytics & Tracking Setup",
+			"PlanPrice": "$280",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Advanced GA4 and Google Tag Manager setup.",
+			"Custom event tracking.",
+			"Form and button click tracking.",
+			"Conversion and lead tracking.",
+			"Multiple important website interaction events.",
+			"Tracking audit and troubleshooting."
+			]
+		},
+		{
+			"PlanType": "Custom Plan",
+			"PlanName": "Custom Analytics Implementation",
+			"PlanPrice": "Discuss for price",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Custom analytics architecture.",
+			"Advanced event and conversion requirements.",
+			"Custom data layer implementation where required.",
+			"Integration with multiple marketing and analytics platforms."
+			]
+		}
+		],
+		"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageShortText": "NB: Service plans, prices, and values may vary based on website structure, number of events, integrations, complexity, time, and market demand.",
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+	},
+	{
+		"_id": 19,
+		"s_Title": "AI Automation & Business Solutions",
+		"s_ContactUrl": "https://wa.me/+8801913595268",
+		"s_Category": "AI Automation",
+		"s_Keywords": "AI automation,AI business automation,custom AI agent development,business process automation,AI workflow automation,AI integration,custom AI workflow,AI business solutions,workflow automation",
+		"s_Slogan": "Automate repetitive work and build smarter business workflows with AI solutions from NetKib.com",
+		"s_ShortText": "Improve business efficiency with AI automation, custom AI agents, workflow integration, and process automation solutions designed around your actual business operations.",
+		"s_Description": "AI automation can help businesses reduce repetitive manual work, connect systems, organize information, improve response workflows, and create more efficient business processes. NetKib provides AI Automation & Business Solutions tailored to specific operational requirements. Our services include AI Automation & Business Workflow Setup, Custom AI Agent Development, Business Process Automation, and AI Integration & Custom Workflow Development. Depending on the project, we can connect AI models with websites, APIs, databases, forms, business tools, internal workflows, or other supported systems. Each solution is planned around the actual process instead of applying automation where it does not provide meaningful value. || Explore our services at NetKib ( www.netkib.com ). || For a complete portfolio, visit Kibria's ( www.kibria.net ) personal site.",
+		"s_Img": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_PdfUrl": "https://trollybazar.com/wp-content/uploads/2024/11/ServicesShortList.pdf",
+		"s_ImgSmall": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"s_AllImg": [
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg"
+		],
+		"s_ServicePackageAndList": [
+		{
+			"PlanType": "Basic Plan",
+			"PlanName": "Starter AI Automation",
+			"PlanPrice": "Starting from $300",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Basic AI automation and business workflow setup.",
+			"Automation of selected repetitive tasks.",
+			"Basic AI or API integration.",
+			"Simple workflow configuration.",
+			"Testing and implementation support."
+			]
+		},
+		{
+			"PlanType": "Premium Plan",
+			"PlanName": "Advanced AI & Workflow Automation",
+			"PlanPrice": "Starting from $700",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"Advanced AI automation workflow development.",
+			"Custom AI agent development.",
+			"Business process automation.",
+			"Multiple API and system integrations.",
+			"Custom workflow logic and data processing.",
+			"Testing, optimization, and implementation support."
+			]
+		},
+		{
+			"PlanType": "Custom Plan",
+			"PlanName": "Custom AI Business Solution",
+			"PlanPrice": "Discuss for price",
+			"PlanContactLink": "https://wa.me/+8801913595268",
+			"PlanLists": [
+			"AI Automation & Business Workflow Setup.",
+			"Custom AI Agent Development.",
+			"Business Process Automation.",
+			"AI Integration & Custom Workflow Development.",
+			"Custom APIs, databases, and third-party integrations.",
+			"Solution architecture based on business requirements."
+			]
+		}
+		],
+		"packageBannerImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageOfferImg": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/refs/heads/main/assets/allServiceImg/ComingSoon.jpg",
+		"packageShortText": "NB: AI automation requirements vary significantly between businesses. Final scope, pricing, and implementation depend on workflow complexity, integrations, API costs, and project requirements.",
+		"s_Icon": "https://raw.githubusercontent.com/kibria-khandaker/API-Data/main/assets/playSolid.svg"
+  },
+  {
 		"_id": 12,
 		"s_Title": "WordPress Maintenance",
 		"s_ContactUrl": "https://wa.me/+8801913595268",
